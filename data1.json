@@ -24,12 +24,6 @@
     "Ville": "Poix-Terron"
   },
   {
-    "Name": "CFA du Bâtiment et des Travaux Publics des Ardennes ",
-    "Tel": "03 24 37 34 34",
-    "Adresse": "134 Grande rue, 08440 Poix-Terron",
-    "Ville": "Poix-Terron"
-  },
-  {
     "Name": "CFA Forestier des Ardennes ",
     "Tel": "03 24 33 72 26",
     "Adresse": "27, rue du Muguet, 08090 Saint-Laurent",
@@ -76,12 +70,6 @@
     "Tel": "03 25 81 08 01",
     "Adresse": "9, rue rue robert Keller, 10150 Pont-Sainte-Marie",
     "Ville": "Pont-Sainte-Marie"
-  },
-  {
-    "Name": "CFA agricole de l'Aube Antenne viticole du CFA départemental ",
-    "Tel": "03 25 29 85 50",
-    "Adresse": "Avenue Bernard Pieds, 10110 Bar-sur-Seine",
-    "Ville": "Bar-sur-Seine"
   },
   {
     "Name": "CFA agricole de l'Aube Antenne viticole du CFA départemental ",
@@ -166,12 +154,6 @@
     "Tel": "03.88.18.61.31",
     "Adresse": "12, rue Jean-Monnet, 67300 Schiltigheim",
     "Ville": "Schiltigheim"
-  },
-  {
-    "Name": "CCI Campus Alsace ",
-    "Tel": "03 88 43 08 00",
-    "Adresse": "234 avenue de Colmar, 67000 Strasbourg",
-    "Ville": "Strasbourg"
   },
   {
     "Name": "CCI Campus Alsace ",
@@ -384,12 +366,6 @@
     "Ville": "Chaumont"
   },
   {
-    "Name": "Lycée professionnel Eugène Decomble ",
-    "Tel": "03 25 03 06 05",
-    "Adresse": "47 Avenue d'Ashton, 52000 Chaumont",
-    "Ville": "Chaumont"
-  },
-  {
     "Name": "CFA Interprofessionnel de la Haute-Marne (CFAID) - Alméa 52 ",
     "Tel": "03.25.06.27.69",
     "Adresse": "4 rue de la Tambourine,, 52100 Saint Dizier",
@@ -424,12 +400,6 @@
     "Tel": "03 89 44 00 55",
     "Adresse": "30 rue Marc Seguin, 68057 Mulhouse",
     "Ville": "Mulhouse"
-  },
-  {
-    "Name": "CNPC SPORT Est - MULHOUSE ",
-    "Tel": "03 89 60 09 60",
-    "Adresse": "19 allée Glück, 68100 MULHOUSE",
-    "Ville": "MULHOUSE"
   },
   {
     "Name": "CNPC SPORT Est - MULHOUSE ",
@@ -580,12 +550,6 @@
     "Tel": "03 26 77 62 86",
     "Adresse": "39 rue Martin PELLER, 51100 REIMS",
     "Ville": "REIMS"
-  },
-  {
-    "Name": "CFAI Champagne-Ardenne ",
-    "Tel": "03 26 89 60 00",
-    "Adresse": "3 rue Max Holste, Parc Technologique Henri Farman, 51685 Reims",
-    "Ville": "Reims"
   },
   {
     "Name": "CFAI Champagne-Ardenne ",
@@ -774,12 +738,6 @@
     "Ville": "Villers-lès-Nancy"
   },
   {
-    "Name": "CFA - Université de Lorraine ",
-    "Tel": "03 72 74 04 20",
-    "Adresse": "Rue du Doyen Urion BP 90137, 54601 Villers-lès-Nancy",
-    "Ville": "Villers-lès-Nancy"
-  },
-  {
     "Name": "CFA interrégional des technologies ",
     "Tel": "03 83 36 89 11",
     "Adresse": "29 rue des Jardiniers, 54042 Nancy",
@@ -855,12 +813,6 @@
     "Name": "CFA du travail Social de Lorraine - IRTS de Lorraine ",
     "Tel": "03 83 93 36 57",
     "Adresse": "201 avenue Raymond Pinchard, 54000 Nancy",
-    "Ville": "Nancy"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "03 83 27 05 38",
-    "Adresse": "43 Cours Léopold, 54000 Nancy",
     "Ville": "Nancy"
   },
   {
@@ -990,12 +942,6 @@
     "Ville": "Verdun"
   },
   {
-    "Name": "IFA Verdun ",
-    "Tel": "809908908",
-    "Adresse": "16 avenue Président Kennedy, 55100 Verdun",
-    "Ville": "Verdun"
-  },
-  {
     "Name": "Maison Familiale Rurale de Damvillers ",
     "Tel": "03 29 85 60 54",
     "Adresse": "4 avenue de Verdun, 55150 Damvillers",
@@ -1078,18 +1024,6 @@
     "Tel": "03 87 63 77 94",
     "Adresse": "5 rue du XIème Régiment d'Aviation, 57155 Marly",
     "Ville": "Marly"
-  },
-  {
-    "Name": "UFA Philippe Charbonneaux ",
-    "Tel": "03 87 63 77 94",
-    "Adresse": "5 rue du XIème Régiment d'Aviation, 57155 Marly",
-    "Ville": "Marly"
-  },
-  {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "03 87 37 66 58",
-    "Adresse": "56-58 Avenue André Malraux BP 289, 57015 Metz Cedex 1",
-    "Ville": "Metz Cedex 1"
   },
   {
     "Name": "Campus des Métiers de Moselle - CFA de Forbach ",
@@ -1242,22 +1176,10 @@
     "Ville": "Sainte-Marguerite"
   },
   {
-    "Name": "CFA de la Chambre de Commerce et d'Industrie des Vosges ",
-    "Tel": "03 29 56 80 72",
-    "Adresse": "467 rue des Grands Prés, 88100 Sainte-Marguerite",
-    "Ville": "Sainte-Marguerite"
-  },
-  {
     "Name": "CFA des Maisons Familiales Rurales de Lorraine ",
     "Tel": "03 29 24 60 59",
     "Adresse": "29 chemin du bois Lasau, 88290 Saulxures-sur-Moselotte",
     "Ville": "Saulxures-sur-Moselotte"
-  },
-  {
-    "Name": "Maison Familiale Rurale de Hadol ",
-    "Tel": "03 29 32 53 11",
-    "Adresse": "29, rue de l'Eglise, 88220 Hadol",
-    "Ville": "Hadol"
   },
   {
     "Name": "Maison Familiale Rurale de Hadol ",
@@ -1320,22 +1242,10 @@
     "Ville": "Remiremont"
   },
   {
-    "Name": "Antenne du CFAI de Maxéville ",
-    "Tel": "03 29 39 43 20",
-    "Adresse": "12 rue de l'Avenir, 88150 Thaon-les-Vosges",
-    "Ville": "Thaon-les-Vosges"
-  },
-  {
     "Name": "CFA de l'Horticulture et du Paysage ",
     "Tel": "03 29 65 33 92",
     "Adresse": "28, rue du Chêne, 88700 Roville-aux-Chênes",
     "Ville": "Roville-aux-Chênes"
-  },
-  {
-    "Name": "Antenne du CFAI de Maxéville ",
-    "Tel": "03 29 41 75 07",
-    "Adresse": "560 rue des Grands Prés, 88100 Sainte-Marguerite",
-    "Ville": "Sainte-Marguerite"
   },
   {
     "Name": "MFR Saint-Dié/la porte d’Alsace ",
@@ -1365,12 +1275,6 @@
     "Name": "UFA de l'hôtellerie Jean Monnet ",
     "Tel": "05 55 35 39 15",
     "Adresse": "12 rue Louis Armstrong, 87000 Limoges",
-    "Ville": "Limoges"
-  },
-  {
-    "Name": "3IL - Institut d'Ingénierie Informatique de Limoges  ",
-    "Tel": "05 55 31 67 24",
-    "Adresse": "43 rue de Sainte-Anne, 87015 Limoges",
     "Ville": "Limoges"
   },
   {
@@ -1480,12 +1384,6 @@
     "Tel": "05 45 38 63 63",
     "Adresse": "Rue Jean-Albert Grégoire, 16800 Soyaux",
     "Ville": "Soyaux"
-  },
-  {
-    "Name": "CFA de la Chambre de Métiers et de l'Artisanat de la Charente - Campus de Cognac ",
-    "Tel": "05 45 82 40 31",
-    "Adresse": "41 rue du Repos, 16100 Cognac",
-    "Ville": "Cognac"
   },
   {
     "Name": "CFA de la Chambre de Métiers et de l'Artisanat de la Charente - Campus de Cognac ",
@@ -1618,12 +1516,6 @@
     "Tel": "05 46 49 80 4",
     "Adresse": "2 allée Saint Antoine, 17240 ST GENIS DE SAINTONGE",
     "Ville": "ST GENIS DE SAINTONGE"
-  },
-  {
-    "Name": "Lycée Polyvalent Louis Audouin Dubreuil ",
-    "Tel": "05 46 33 38 00",
-    "Adresse": "1 rue Philippe Jannet, 17415 Saint-Jean d'Angély",
-    "Ville": "Saint-Jean d'Angély"
   },
   {
     "Name": "Lycée Polyvalent Louis Audouin Dubreuil ",
@@ -1818,12 +1710,6 @@
     "Ville": "Brive La Gaillarde"
   },
   {
-    "Name": "AFTRAL CFATL Brive ",
-    "Tel": "809908908",
-    "Adresse": "3 avenue Roger Roncier, 19100 Brive La Gaillarde",
-    "Ville": "Brive La Gaillarde"
-  },
-  {
     "Name": "Lycée agricole Henri Queuille de Neuvic - CDFAA19 ",
     "Tel": "05.55.25.27.64",
     "Adresse": "Rue de l'Agriculture, 19160 Neuvic",
@@ -1950,12 +1836,6 @@
     "Ville": "Gueret"
   },
   {
-    "Name": "CFA de la CCI de Guéret ",
-    "Tel": "05 55 52 84 22",
-    "Adresse": "8 avenue d'Auvergne, 23000 Gueret",
-    "Ville": "Gueret"
-  },
-  {
     "Name": "Lycée Professionnel Louis Gaston Roussillat ",
     "Tel": "05 55 80 27 55",
     "Adresse": "La Valette, 23320 Saint-Vaury",
@@ -1984,12 +1864,6 @@
     "Tel": "05 49 65 24 11",
     "Adresse": "Campus des Sicaudières Route de Nantes, 79300 Bressuire",
     "Ville": "Bressuire"
-  },
-  {
-    "Name": "DUT GEAN Niort – Université de Poitiers ",
-    "Tel": "05 49 79 99 03",
-    "Adresse": "8 rue Archimède Centre d'activités de Noron, 79000 Niort",
-    "Ville": "Niort"
   },
   {
     "Name": "DUT GEAN Niort – Université de Poitiers ",
@@ -2152,12 +2026,6 @@
     "Tel": "05 53 45 44 10",
     "Adresse": "20 rue Beaulieu 7053, 24000 Périgueux Cedex",
     "Ville": "Périgueux Cedex"
-  },
-  {
-    "Name": "MFR du Sarladais ",
-    "Tel": "05 53 31 31 90",
-    "Adresse": "Place du Champ de Mars, 24590 Salignac-Eyvigues",
-    "Ville": "Salignac-Eyvigues"
   },
   {
     "Name": "MFR du Sarladais ",
@@ -2356,12 +2224,6 @@
     "Tel": "05 57 26 69 69",
     "Adresse": "15-17 allée Alice Héliodore Gallienne, 33600 Pessac",
     "Ville": "Pessac"
-  },
-  {
-    "Name": "Lycée Agro-viticole Bordeaux - Blanquefort ",
-    "Tel": "05 56 35 56 35",
-    "Adresse": "84, avenue du Général de Gaulle, 33290 Blanquefort",
-    "Ville": "Blanquefort"
   },
   {
     "Name": "Lycée Agro-viticole Bordeaux - Blanquefort ",
@@ -2790,12 +2652,6 @@
     "Ville": "Saint Geours De Maremne"
   },
   {
-    "Name": "AFTRAL CFATL Saint-Geours-de-Maremne ",
-    "Tel": "809908908",
-    "Adresse": "Rue de la Gravière - ZAE Atlantisud, 40230 Saint Geours De Maremne",
-    "Ville": "Saint Geours De Maremne"
-  },
-  {
     "Name": "CFA des Industries du Bois ",
     "Tel": "05 58 83 03 49",
     "Adresse": "24 rue Henri Barbusse, 40110 Morcenx-la-Nouvelle",
@@ -2904,12 +2760,6 @@
     "Ville": "Barbaste"
   },
   {
-    "Name": "MFR du Néracais ",
-    "Tel": "05 53 65 56 06",
-    "Adresse": "200 route de Bordeaux, 47230 Barbaste",
-    "Ville": "Barbaste"
-  },
-  {
     "Name": "Lycée des Métiers Porte du Lot ",
     "Tel": "05 53 84 21 61",
     "Adresse": "Le Vaquet, 47320 Clairac",
@@ -2988,12 +2838,6 @@
     "Ville": "Sainte-Bazeille"
   },
   {
-    "Name": "Sud Management Business School ",
-    "Tel": "05 53 48 41 41",
-    "Adresse": "Site de l'Agropole - CS 20053 Estillac, 47901 Agen Cedex 9",
-    "Ville": "Agen Cedex 9"
-  },
-  {
     "Name": "CFA Cité de la Formation  ",
     "Tel": "05 53 76 04 00",
     "Adresse": "11 à 15 rue Albert Camus, 47205 Marmande",
@@ -3022,12 +2866,6 @@
     "Tel": "05 59 84 15 07",
     "Adresse": "Lycée Saint-Cricq, 3bis avenue Nitot, 64015 Pau",
     "Ville": "Pau"
-  },
-  {
-    "Name": "ISTELI Pau - Institut Supérieur du Transport Et de la Logistique Internationale ",
-    "Tel": "809908908",
-    "Adresse": "Laurent de Lavoisier, 64140 Lons",
-    "Ville": "Lons"
   },
   {
     "Name": "ISTELI Pau - Institut Supérieur du Transport Et de la Logistique Internationale ",
@@ -3162,12 +3000,6 @@
     "Ville": "Bayonne"
   },
   {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "05 59 57 42 69",
-    "Adresse": "Campus de la Nive 17 Place Paul BERT, 64100 Bayonne",
-    "Ville": "Bayonne"
-  },
-  {
     "Name": "ESTIA  ",
     "Tel": "05 59 43 84 00",
     "Adresse": "92 allée Théodore Monod Technopole Izarbel Bât Estia 1, 64210 Bidart",
@@ -3240,12 +3072,6 @@
     "Ville": "Poitiers"
   },
   {
-    "Name": "IDAIC - Commerce et Management ",
-    "Tel": "05 49 60 97 97",
-    "Adresse": "17 rue Albin Haller, 86000 Poitiers",
-    "Ville": "Poitiers"
-  },
-  {
     "Name": "UFR Sciences Humaines et Arts - université de Poitiers ",
     "Tel": "05 49 45 45 45",
     "Adresse": "8 rue René Descartes, 86000 Poitiers",
@@ -3255,12 +3081,6 @@
     "Name": "Lycée polyvalent Nelson Mandela ",
     "Tel": "05 49 52 30 35",
     "Adresse": "63 rue de la Bugellerie, 86022 Poitiers",
-    "Ville": "Poitiers"
-  },
-  {
-    "Name": "ISFAC ",
-    "Tel": "05 49 60 39 30",
-    "Adresse": "17 rue Albin Haller, 86000 Poitiers",
     "Ville": "Poitiers"
   },
   {
@@ -3456,12 +3276,6 @@
     "Ville": "Labège"
   },
   {
-    "Name": "Institut National du Cycle et du Motocycle (INCM)  ",
-    "Tel": "01.49.92.10.47",
-    "Adresse": "2 bd Bonrepos, 31000 Toulouse",
-    "Ville": "Toulouse"
-  },
-  {
     "Name": "JurisCampus CFA du droit et de la gestion de patrimoine  ",
     "Tel": "05 62 88 28 43",
     "Adresse": "1202 l'occitane Technoparc 3 bat 10, 31670 Labège",
@@ -3510,12 +3324,6 @@
     "Ville": "Toulouse"
   },
   {
-    "Name": "DEFI - Centre de Formation d'Apprentis Spécialisé  ",
-    "Tel": "05 34 60 24 40",
-    "Adresse": "5 chemin de Colasson, 31400 Toulouse",
-    "Ville": "Toulouse"
-  },
-  {
     "Name": "CFA Campus IGS ",
     "Tel": "05 31 08 70 00",
     "Adresse": "186 route de Grenade, 31700 Blagnac",
@@ -3532,12 +3340,6 @@
     "Tel": "05 34 26 04 80",
     "Adresse": "Parc Economique du Triangle, 31660 Bessières",
     "Ville": "Bessières"
-  },
-  {
-    "Name": "CFA des Compagnons du Devoir ",
-    "Tel": "05 61 16 20 70",
-    "Adresse": "5 rue Hyacinthe Dubreuil, 31770 Colomiers",
-    "Ville": "Colomiers"
   },
   {
     "Name": "CFA Format Différence ",
@@ -3598,12 +3400,6 @@
     "Tel": "05 34 66 50 39",
     "Adresse": "5 Avenue Albert Durand - Immeuble Aéropôle, bâtiment 5, 31700 Blagnac",
     "Ville": "Blagnac"
-  },
-  {
-    "Name": "CFA des Compagnons du Devoir ",
-    "Tel": "05 61 14 63 10",
-    "Adresse": "28 rue des Pyrénées, 31400 Toulouse",
-    "Ville": "Toulouse"
   },
   {
     "Name": "CFA Agricole Piémont-Pyrénées ",
@@ -3816,12 +3612,6 @@
     "Ville": "Saint Girons"
   },
   {
-    "Name": "CFPPA Ariège Comminges - Site de Saint Girons ",
-    "Tel": "05 61 66 71 50",
-    "Adresse": "Rue Trinqué, 09200 Saint Girons",
-    "Ville": "Saint Girons"
-  },
-  {
     "Name": "Lycée Professionnel François Camel ",
     "Tel": "05 61 04 05 00",
     "Adresse": "28 rue Jules Ferry, 09200 Saint Girons",
@@ -3862,12 +3652,6 @@
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
     "Ville": "N/A"
-  },
-  {
-    "Name": "CFA Agricole de l'Aude - Site de Limoux ",
-    "Tel": "04.68.20.16.46",
-    "Adresse": "Place du Général Leclerc, 11300 Limoux",
-    "Ville": "Limoux"
   },
   {
     "Name": "CFA Agricole de l'Aude - Site de Limoux ",
@@ -4002,12 +3786,6 @@
     "Ville": "Rodez"
   },
   {
-    "Name": "Lycée Technologique et Professionnel Louis Querbes ",
-    "Tel": "05 65 75 53 98",
-    "Adresse": "13 rue Béteille, 12000 Rodez",
-    "Ville": "Rodez"
-  },
-  {
     "Name": "Maison Familiale Rurale Valrance ",
     "Tel": "05 65 98 18 60",
     "Adresse": "2 route du bois du four, 12380 Saint-Sernin-sur-Rance",
@@ -4090,18 +3868,6 @@
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
     "Ville": "N/A"
-  },
-  {
-    "Name": "Les Compagnons du Devoir ",
-    "Tel": "04 66 28 77 77",
-    "Adresse": "3 chemin du Compagnon, 30900 Nîmes",
-    "Ville": "Nîmes"
-  },
-  {
-    "Name": "Les Compagnons du Devoir ",
-    "Tel": "04 66 28 77 77",
-    "Adresse": "3 chemin du Compagnon, 30900 Nîmes",
-    "Ville": "Nîmes"
   },
   {
     "Name": "CCI SUD FORMATION - CFA Occitanie – Alès ",
@@ -4260,12 +4026,6 @@
     "Ville": "Samatan"
   },
   {
-    "Name": "Lycée professionnel Clément Ader ",
-    "Tel": "05 62 62 30 46",
-    "Adresse": "10, rue du Chemin Neuf, 32100 Samatan",
-    "Ville": "Samatan"
-  },
-  {
     "Name": "CFPPA du Gers (Centre Formation Professionnelle et de Promotion Agricole) ",
     "Tel": "05 62 66 54 64",
     "Adresse": "Domaine de Valentées, 32300 Mirande",
@@ -4296,12 +4056,6 @@
     "Ville": "Auch"
   },
   {
-    "Name": "LEGTA AUCH Beaulieu Lavacant  ",
-    "Tel": "05 62 61 52 20",
-    "Adresse": "Site de Lavacant, 32550 Pavie",
-    "Ville": "Pavie"
-  },
-  {
     "Name": "AFTRAL Auch ",
     "Tel": "809908908",
     "Adresse": "1 avenue De La République, 32550 Pavie",
@@ -4323,12 +4077,6 @@
     "Name": "Institut Régional de Tourisme et d'Hôtellerie (IRTH) ",
     "Tel": "05 62 44 45 95",
     "Adresse": "78, avenue d'Azereix, 65000 Tarbes",
-    "Ville": "Tarbes"
-  },
-  {
-    "Name": "AFTRAL Tarbes ",
-    "Tel": "809908908",
-    "Adresse": "Autoport Des Pyrénnées, 65000 Tarbes",
     "Ville": "Tarbes"
   },
   {
@@ -4392,22 +4140,10 @@
     "Ville": "Montpellier"
   },
   {
-    "Name": "CAMPUS OXIDEVE  ",
-    "Tel": "06 36 05 28 67",
-    "Adresse": "2510 Avenue de Maurin, 34000 Montpellier",
-    "Ville": "Montpellier"
-  },
-  {
     "Name": "CFA de l'Enseignement Supérieur - Sud de France (EnSup-LR)  ",
     "Tel": "04 34 43 21 30",
     "Adresse": "99, avenue d'Occitanie, 34000 Montpellier",
     "Ville": "Montpellier"
-  },
-  {
-    "Name": "AFTRAL Béziers ",
-    "Tel": "809908908",
-    "Adresse": "route De Narbonne - Montée des Noyers, 34500 Beziers",
-    "Ville": "Beziers"
   },
   {
     "Name": "AFTRAL Béziers ",
@@ -4426,12 +4162,6 @@
     "Tel": "04 67 13 35 00",
     "Adresse": "rue du mas des Brousses, 34000 Montpellier Cedex 01",
     "Ville": "Montpellier Cedex 01"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "04 67 58 11 08",
-    "Adresse": "140 rue Robert Koch, 34000 Montpellier",
-    "Ville": "Montpellier"
   },
   {
     "Name": "CFA Nicolas ALBANO ",
@@ -4524,12 +4254,6 @@
     "Ville": "Gignac"
   },
   {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "04 67 14 93 69",
-    "Adresse": "IAE Montpellier - BAT.29 CC028. Place Eugène Bataillon, 34095 Montpellier Cedex 5",
-    "Ville": "Montpellier Cedex 5"
-  },
-  {
     "Name": "Lycée Professionnel Jules Ferry - La Colline ",
     "Tel": "04 67 10 74 01",
     "Adresse": "270, avenue de la Colline, 34070 Montpellier",
@@ -4594,12 +4318,6 @@
     "Tel": "809908908",
     "Adresse": "ZAE VIA EUROPA D64 - Le grand Hopital, 34350 Vendres",
     "Ville": "Vendres"
-  },
-  {
-    "Name": "CFA des métiers de l'hôtellerie et de la restauration ",
-    "Tel": "04 99 51 35 00",
-    "Adresse": "2300, avenue des Moulins, 34185 Montpellier",
-    "Ville": "Montpellier"
   },
   {
     "Name": "CCI Sud Formation CFA Occitanie Béziers ",
@@ -4686,12 +4404,6 @@
     "Ville": "Cahors"
   },
   {
-    "Name": "IFA de la Chambre de Commerce et d'Industrie du Lot ",
-    "Tel": "05 65 20 48 60",
-    "Adresse": "94 rue Hautesserre, 46002 Cahors",
-    "Ville": "Cahors"
-  },
-  {
     "Name": "Ensemble Scolaire Saint-Etienne ",
     "Tel": "05 65 23 32 00",
     "Adresse": "49, rue des Soubirous, 46000 Cahors",
@@ -4758,12 +4470,6 @@
     "Ville": "Javols"
   },
   {
-    "Name": "Maison Familiale et Rurale de Javols ",
-    "Tel": "04 66 42 84 21",
-    "Adresse": "Route d'Aumont, 48130 Javols",
-    "Ville": "Javols"
-  },
-  {
     "Name": "Lycée d'enseignement général et technologique agricole de la Lozère, site Louis-Pasteur (LEGTA) ",
     "Tel": "04 66 32 83 54",
     "Adresse": "Chemin du Fraissinet, 48500 La Canourgue",
@@ -4788,12 +4494,6 @@
     "Ville": "Saint-Chély-d'Apcher"
   },
   {
-    "Name": "CAMPUS OXIDEVE  ",
-    "Tel": "06 36 05 28 67",
-    "Adresse": "277 rue Jean-Baptiste Biot, 66000 Perpignan",
-    "Ville": "Perpignan"
-  },
-  {
     "Name": "L'IDEM CFA  ",
     "Tel": "04 68 92 53 84",
     "Adresse": "50, rue Pierre Semard, 66270 Le Soler",
@@ -4804,12 +4504,6 @@
     "Tel": "04 68 64 89 77",
     "Adresse": "1 boulevard des Pyrénées, 66600 Rivesaltes",
     "Ville": "Rivesaltes"
-  },
-  {
-    "Name": "AFTRAL Perpignan ",
-    "Tel": "809908908",
-    "Adresse": "29 rue De Strasbourg - zone d'activité Saint Charles, 66000 Perpignan",
-    "Ville": "Perpignan"
   },
   {
     "Name": "AFTRAL Perpignan ",
@@ -4840,12 +4534,6 @@
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
     "Ville": "N/A"
-  },
-  {
-    "Name": "OXIDEVE ",
-    "Tel": "06 36 05 28 67",
-    "Adresse": "04 rue Lucien Vidie, 66600 Rivesaltes",
-    "Ville": "Rivesaltes"
   },
   {
     "Name": "Chambre de Métiers et de l'Artisanat Pyrénées-Orientales ",
@@ -4914,12 +4602,6 @@
     "Ville": "Lescure D Albigeois"
   },
   {
-    "Name": "AFTRAL Albi ",
-    "Tel": "809908908",
-    "Adresse": "41 Rue Simone Signoret, 81380 Lescure D Albigeois",
-    "Ville": "Lescure D Albigeois"
-  },
-  {
     "Name": "IFA Textile ",
     "Tel": "05 63 97 56 10",
     "Adresse": "Boulevard de Thoré, 81200 Aussillon",
@@ -4947,12 +4629,6 @@
     "Name": "Institut National Universitaire J-F Champollion ",
     "Tel": "05 63 48 17 17",
     "Adresse": "Place de Verdun, 81000 Albi",
-    "Ville": "Albi"
-  },
-  {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "05 63 38 91 78",
-    "Adresse": "Place de Verdun (Bâtiment UPS), 81000 Albi",
     "Ville": "Albi"
   },
   {
@@ -5058,12 +4734,6 @@
     "Ville": "Montauban"
   },
   {
-    "Name": "AFTRAL Montauban ",
-    "Tel": "809908908",
-    "Adresse": "8 rue Des Primeurs - Marché Gare, 82000 Montauban",
-    "Ville": "Montauban"
-  },
-  {
     "Name": "AFTRAL CFATL Montauban ",
     "Tel": "809908908",
     "Adresse": "8 rue Des Primeurs - Marché Gare, 82000 Montauban",
@@ -5110,12 +4780,6 @@
     "Tel": "03 80 41 15 14",
     "Adresse": "4, bis rue du Docteur Maret, 21000 Dijon",
     "Ville": "Dijon"
-  },
-  {
-    "Name": "CFA Agricole et Viticole de Beaune ",
-    "Tel": "03 80 26 34 29",
-    "Adresse": "6 avenue du Parc, 21200 Beaune",
-    "Ville": "Beaune"
   },
   {
     "Name": "CFA Agricole et Viticole de Beaune ",
@@ -5304,12 +4968,6 @@
     "Ville": "Besançon"
   },
   {
-    "Name": "CFA Régional de la Pharmacie de Franche-Comté ",
-    "Tel": "03 81 82 16 71",
-    "Adresse": "46 av Georges Clémenceau, 25000 Besançon",
-    "Ville": "Besançon"
-  },
-  {
     "Name": "AFTRAL CFATL Montbéliard ",
     "Tel": "809908908",
     "Adresse": "110 rue Pierre Marti - ZAC TECHNOLAND, 25460 Etupes",
@@ -5361,12 +5019,6 @@
     "Name": "Ecoles des Travaux Publics de Franche-Comté ",
     "Tel": "03 81 41 16 15",
     "Adresse": "4 rue Camille Flammarion, 25000 Besançon",
-    "Ville": "Besançon"
-  },
-  {
-    "Name": "Institut Régional du Travail Social - IRTS ",
-    "Tel": "03 81 41 61 00",
-    "Adresse": "1, rue Alfred-de-Vigny, 25000 Besançon",
     "Ville": "Besançon"
   },
   {
@@ -5496,12 +5148,6 @@
     "Ville": "Vesoul"
   },
   {
-    "Name": "Centre de Formation Professionnelle et de Promotion Agricole (CFPPA) ",
-    "Tel": "03 84 96 85 00",
-    "Adresse": "6, rue Edouard Belin, 70000 Vesoul",
-    "Ville": "Vesoul"
-  },
-  {
     "Name": "Lycée Polyvalent Georges Colomb ",
     "Tel": "03 84 89 03 80",
     "Adresse": "1 rue Georges Colomb, 70204 Lure",
@@ -5572,12 +5218,6 @@
     "Tel": "03 84 87 20 03",
     "Adresse": "614, avenue Edgar Faure, 39570 Montmorot",
     "Ville": "Montmorot"
-  },
-  {
-    "Name": "Lycée polyvalent Jacques Duhamel ",
-    "Tel": "03 84 79 78 00",
-    "Adresse": "Avenue Charles Laurent-Thouverey, 39100 Dole",
-    "Ville": "Dole"
   },
   {
     "Name": "Lycée polyvalent Jacques Duhamel ",
@@ -5682,12 +5322,6 @@
     "Ville": "Marzy"
   },
   {
-    "Name": "CFA polyvalent Nevers-Marzy ",
-    "Tel": "03 86 60 83 66",
-    "Adresse": "21, rue des Carrières, 58180 Marzy",
-    "Ville": "Marzy"
-  },
-  {
     "Name": "Antenne du CFA de Challuy ",
     "Tel": "03 86 26 67 67",
     "Adresse": "66 Rue Jean Monnet, 58200 Cosne-Cours-sur-Loire",
@@ -5752,12 +5386,6 @@
     "Tel": "03 20 62 96 11",
     "Adresse": "rue Ambroise Paré, 71000 Loos",
     "Ville": "Loos"
-  },
-  {
-    "Name": "Bâtiment CFA Bourgogne-Franche-Comté – Site d’AUTUN ",
-    "Tel": "03 72 612 612",
-    "Adresse": "Route du Bois de Sapin, 71400 Autun",
-    "Ville": "Autun"
   },
   {
     "Name": "Bâtiment CFA Bourgogne-Franche-Comté – Site d’AUTUN ",
@@ -5856,22 +5484,10 @@
     "Ville": "Mâcon"
   },
   {
-    "Name": "Maison familiale rurale d'éducation et d'orientation ",
-    "Tel": "03 85 82 32 35",
-    "Adresse": "Chemin des guillemots, 71190 Etang-sur-Arroux",
-    "Ville": "Etang-sur-Arroux"
-  },
-  {
     "Name": "CFA de l'industrie de Côte-d'Or et Saône-et-Loire (CFAI 21-71) ",
     "Tel": "03 85 42 18 21",
     "Adresse": "75, grande-rue Saint-Cosme, 71102 Chalon-sur-Saône",
     "Ville": "Chalon-sur-Saône"
-  },
-  {
-    "Name": "Maison familiale rurale d'éducation et d'orientation ",
-    "Tel": "03 85 25 04 78",
-    "Adresse": "Haires, 71110 Anzy-le-Duc",
-    "Ville": "Anzy-le-Duc"
   },
   {
     "Name": "Lycée Emiland Gauthey ",
@@ -5916,12 +5532,6 @@
     "Ville": "Belfort"
   },
   {
-    "Name": "Lycée Professionnel Raoul Follereau ",
-    "Tel": "03 84 90 16 00",
-    "Adresse": "3, rue Louis Marchal, 90000 Belfort",
-    "Ville": "Belfort"
-  },
-  {
     "Name": "Lycée Privé Notre-Dame des Anges ",
     "Tel": "03 84 28 05 58",
     "Adresse": "46, bis Faubourg de Montbéliard, 90000 Belfort",
@@ -5950,12 +5560,6 @@
     "Tel": "03 73 55 20 20",
     "Adresse": "8 Impasse de l'Europe, 89100 Maillot",
     "Ville": "Maillot"
-  },
-  {
-    "Name": "Pôle Formation 58-89, site de Joigny ",
-    "Tel": "03 86 62 44 22",
-    "Adresse": "Route des Entrepreneurs, 89300 Joigny",
-    "Ville": "Joigny"
   },
   {
     "Name": "Pôle Formation 58-89, site de Joigny ",
@@ -6066,12 +5670,6 @@
     "Ville": "Vire"
   },
   {
-    "Name": "CFA Agricole Vire ",
-    "Tel": "02 31 66 30 20",
-    "Adresse": "Route de Caen, 14500 Vire",
-    "Ville": "Vire"
-  },
-  {
     "Name": "Centre interprofessionnel de formation de l'artisanat et des métiers du Calvados - CIFAC ",
     "Tel": "02 31 53 25 30",
     "Adresse": "2, rue Claude Bloch, 14000 Caen",
@@ -6144,12 +5742,6 @@
     "Ville": "Saint Contest"
   },
   {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "02 31 72 11 90",
-    "Adresse": "Rue Niepce, 14120 Mondeville",
-    "Ville": "Mondeville"
-  },
-  {
     "Name": "UFA du Lycée Général et Technologique Arcisse de Caumont ",
     "Tel": "02.31.51.18.80",
     "Adresse": "3, rue Baron-Gérard, 14400 Bayeux",
@@ -6184,12 +5776,6 @@
     "Tel": "809908908",
     "Adresse": "6 Rue de la Cotonnière, 14000 Caen",
     "Ville": "Caen"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "02 31 86 42 56",
-    "Adresse": "13 rue Martin Luther King, 14280 Saint-Contest",
-    "Ville": "Saint-Contest"
   },
   {
     "Name": "Maison familiale rurale (MFR) ",
@@ -6306,12 +5892,6 @@
     "Ville": "Evreux"
   },
   {
-    "Name": "BTP CFA Maurice-Pierre VALLETTE ",
-    "Tel": "02.32.23.09.89",
-    "Adresse": "1006 rue Jacquard - ZI La Madeleine, 27000 Evreux",
-    "Ville": "Evreux"
-  },
-  {
     "Name": "Centre de Formation d'Apprentis Horticole ",
     "Tel": "02 32 28 87 61",
     "Adresse": "6, rue Georges Politzer, 27000 Evreux",
@@ -6328,12 +5908,6 @@
     "Tel": "02 32 35 66 50",
     "Adresse": "Rue Pierre Corneille, 27110 Le Neubourg",
     "Ville": "Le Neubourg"
-  },
-  {
-    "Name": "Centre de Formation d'Apprentis Agricole de l'Eure ",
-    "Tel": "02 32 35 61 90",
-    "Adresse": "Château de Chambray, 27240 Gouville",
-    "Ville": "Gouville"
   },
   {
     "Name": "Centre de Formation d'Apprentis Risle-Seine ",
@@ -6388,12 +5962,6 @@
     "Tel": "02 33 46 00 88",
     "Adresse": "7 rue des Hauts Vents, 50250 La Haye-du-Puits",
     "Ville": "La Haye-du-Puits"
-  },
-  {
-    "Name": "FIM CCI Formation Normandie Campus de Cherbourg ",
-    "Tel": "02.33.78.86.88",
-    "Adresse": "Rue des Vindits, 50130 Cherbourg en Cotentin",
-    "Ville": "Cherbourg en Cotentin"
   },
   {
     "Name": "FIM CCI Formation Normandie Campus de Cherbourg ",
@@ -6498,12 +6066,6 @@
     "Ville": "Saint-Sauveur-Lendelin"
   },
   {
-    "Name": "Institut de formation de la chambre de métiers de la Manche - IFORM ",
-    "Tel": "02 33 76 70 50",
-    "Adresse": "3, rue Pasteur, 50200 Coutances",
-    "Ville": "Coutances"
-  },
-  {
     "Name": "CFA FIM CCI Formation Normandie Campus de Granville ",
     "Tel": "02.33.91.21.30",
     "Adresse": "68, Rue Jean Monnet, 50400 Granville",
@@ -6556,12 +6118,6 @@
     "Tel": "02 33 29 49 61",
     "Adresse": "25 rue Marcel Mezen, BP 720, 61000 Alençon Cedex",
     "Ville": "Alençon Cedex"
-  },
-  {
-    "Name": "Centre interrégional des formations alternées de la plasturgie (CIFAP) ",
-    "Tel": "02.33.81.26.00",
-    "Adresse": "Pôle Universitaire de Monfoulon, 61000 Alençon",
-    "Ville": "Alençon"
   },
   {
     "Name": "Centre interrégional des formations alternées de la plasturgie (CIFAP) ",
@@ -6736,12 +6292,6 @@
     "Tel": "809908908",
     "Adresse": "126 Rue Amerigo Vespucci, 76600 Le Havre",
     "Ville": "Le Havre"
-  },
-  {
-    "Name": "CFA Le Hurle-Vent ",
-    "Tel": "02.35.86.89.47",
-    "Adresse": "1, rue Jean-Moulin, 76470 Le Tréport",
-    "Ville": "Le Tréport"
   },
   {
     "Name": "CFA Le Hurle-Vent ",
@@ -7050,12 +6600,6 @@
     "Ville": "Rouen"
   },
   {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "02 35 65 48 85",
-    "Adresse": "Rue de la Grande Epine, 76800 Saint-Étienne-du-Rouvray",
-    "Ville": "Saint-Étienne-du-Rouvray"
-  },
-  {
     "Name": "Maison Familiale Rurale de Buchy ",
     "Tel": "02 35 34 40 44",
     "Adresse": "187 route de Sommery, 76750 Buchy",
@@ -7108,12 +6652,6 @@
     "Tel": "04.71.74.57.58",
     "Adresse": "Bonnefont, 43100 Fontannes",
     "Ville": "Fontannes"
-  },
-  {
-    "Name": "Antenne de l'université d'Auvergne IUT de Clermont-Ferrand ",
-    "Tel": "04.71.09.90.40",
-    "Adresse": "8, rue Jean-Baptiste-Fabre, 43000 Le Puy-en-Velay",
-    "Ville": "Le Puy-en-Velay"
   },
   {
     "Name": "Antenne de l'université d'Auvergne IUT de Clermont-Ferrand ",
@@ -7204,12 +6742,6 @@
     "Tel": "04 78 06 16 03",
     "Adresse": "53, rue Centrale, 01360 Balan",
     "Ville": "Balan"
-  },
-  {
-    "Name": "Lycée professionnel Alexandre Bérard ",
-    "Tel": "04 74 38 01 99",
-    "Adresse": "223 rue Alexandre Bérard, 01505 Ambérieu-en-Bugey",
-    "Ville": "Ambérieu-en-Bugey"
   },
   {
     "Name": "Lycée professionnel Alexandre Bérard ",
@@ -7332,12 +6864,6 @@
     "Ville": "Ambérieu-en-Bugey"
   },
   {
-    "Name": "Lycée professionnel privé Saint-Joseph ",
-    "Tel": "04 74 45 88 80",
-    "Adresse": "3 rue du Lycée, 01000 Bourg-en-Bresse",
-    "Ville": "Bourg-en-Bresse"
-  },
-  {
     "Name": "Institut national des sciences appliquées de Lyon, site de plasturgie (INSA Lyon) ",
     "Tel": "04.74.81.93.00",
     "Adresse": "85, rue Becquerel, Bellignat, 01108 Oyonnax",
@@ -7348,12 +6874,6 @@
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
     "Ville": "N/A"
-  },
-  {
-    "Name": "CFA des Compagnons du Devoir ",
-    "Tel": "03 85 31 56 87",
-    "Adresse": "Le Château, 01290 Pont-de-Veyle",
-    "Ville": "Pont-de-Veyle"
   },
   {
     "Name": "CFA du Bâtiment et des Travaux Publics ",
@@ -7384,12 +6904,6 @@
     "Tel": "04 70 67 30 30",
     "Adresse": "Route du Veurdre, 03320 Limoise",
     "Ville": "Limoise"
-  },
-  {
-    "Name": "Antenne de l'université Blaise pascal IUT de Montluçon ",
-    "Tel": "04 70 30 43 91",
-    "Adresse": "1 avenue des Célestins, 03200 Vichy",
-    "Ville": "Vichy"
   },
   {
     "Name": "Antenne de l'université Blaise pascal IUT de Montluçon ",
@@ -7554,12 +7068,6 @@
     "Ville": "Lanas"
   },
   {
-    "Name": "CFA André Fargier ",
-    "Tel": "04 75 36 16 00",
-    "Adresse": "Route de l'Aérodrome, 07200 Lanas",
-    "Ville": "Lanas"
-  },
-  {
     "Name": "Lycée professionnel Marius Bouvier ",
     "Tel": "04 75 07 86 50",
     "Adresse": "69 avenue Lamastre, 07301 Tournon-sur-Rhône",
@@ -7644,12 +7152,6 @@
     "Ville": "Massiac"
   },
   {
-    "Name": "BTP-CFA Cantal ",
-    "Tel": "04 71 23 00 69",
-    "Adresse": "1 route d'Allanche, 15500 Massiac",
-    "Ville": "Massiac"
-  },
-  {
     "Name": "Infa Auvergne - Site de Saint Flour (Institut national de formation et d'application ) ",
     "Tel": "04 71 60 46 13",
     "Adresse": "16 place de la Liberté, 15100 SAINT FLOUR",
@@ -7660,12 +7162,6 @@
     "Tel": "04.71.60.07.62",
     "Adresse": "Massales, 15100 Saint Flour",
     "Ville": "Saint Flour"
-  },
-  {
-    "Name": "Antenne de l'université d'Auvergne IUT de Clermont-Ferrand ",
-    "Tel": "04.71.46.86.10",
-    "Adresse": "100, rue de l'Egalité, 15000 Aurillac",
-    "Ville": "Aurillac"
   },
   {
     "Name": "Infa Auvergne  ",
@@ -7720,12 +7216,6 @@
     "Tel": "04 75 25 03 80",
     "Adresse": "La Chauméane, 26400 Divajeu",
     "Ville": "Divajeu"
-  },
-  {
-    "Name": "Centre de formation professionnelle forestière Chambre de commerce et d'industrie de la Drôme ",
-    "Tel": "04 75 90 77 33",
-    "Adresse": "160 chemin du Mas, 26780 Châteauneuf-du-Rhône",
-    "Ville": "Châteauneuf-du-Rhône"
   },
   {
     "Name": "Centre de formation professionnelle forestière Chambre de commerce et d'industrie de la Drôme ",
@@ -7836,12 +7326,6 @@
     "Ville": "Annecy-le-Vieux"
   },
   {
-    "Name": "ECORIS ",
-    "Tel": "04.50.09.27.98",
-    "Adresse": "9 avenue du Pré-de-Challes, 74940 Annecy-le-Vieux",
-    "Ville": "Annecy-le-Vieux"
-  },
-  {
     "Name": "UFA du Lycée Professionnel Privé La Fontaine ",
     "Tel": "04 50 44 50 01",
     "Adresse": "Route d’Albertville, chemin des Prés d’Enfer CS 064, 74210 Faverges",
@@ -7900,12 +7384,6 @@
     "Tel": "04 50 68 00 50",
     "Adresse": "126 chemin des Métiers, 74570 Groisy",
     "Ville": "Groisy"
-  },
-  {
-    "Name": "Maison familiale rurale (MFR) ",
-    "Tel": "04.50.04.35.55",
-    "Adresse": "238, chemin de la Cure, 74520 Vulbens",
-    "Ville": "Vulbens"
   },
   {
     "Name": "CFA des Maisons Familiales Rurales - MFR (Cruseilles) ",
@@ -8094,12 +7572,6 @@
     "Ville": "Saint-Martin d'Hères"
   },
   {
-    "Name": "Centre de Formation Professionnelle Charmilles  ",
-    "Tel": "04 76 03 74 00",
-    "Adresse": "8 rue du Tour de l'Eau Immeuble Hermès, 38400 Saint-Martin d'Hères",
-    "Ville": "Saint-Martin d'Hères"
-  },
-  {
     "Name": "CFA Industrie du Dauphiné - Moirans ",
     "Tel": "04 76 35 85 00",
     "Adresse": "Maison de la Production - 83 rue de Chatagnon, 38430 Moirans",
@@ -8116,12 +7588,6 @@
     "Tel": "809908908",
     "Adresse": "70 boucle De La Ramée, 38070 Saint Quentin Fallavier",
     "Ville": "Saint Quentin Fallavier"
-  },
-  {
-    "Name": "Ecole nationale des industries du lait et des viandes (ENILV) ",
-    "Tel": "04.76.09.81.45",
-    "Adresse": "4, rue de la Paix, 38800 Le Pont-de-Claix",
-    "Ville": "Le Pont-de-Claix"
   },
   {
     "Name": "AFTRAL CFATL Chasse-sur-Rhône ",
@@ -8146,18 +7612,6 @@
     "Tel": "04 74 93 14 38",
     "Adresse": "La Grive, 38300 Bourgoin-Jallieu",
     "Ville": "Bourgoin-Jallieu"
-  },
-  {
-    "Name": "Centre de formation professionnelle et de promotion agricole (CFPPA) ",
-    "Tel": "04.76.52.52.18",
-    "Adresse": "1, chemin Charvinières, 38332 Saint-Ismier",
-    "Ville": "Saint-Ismier"
-  },
-  {
-    "Name": "Les Compagnons du Devoir et du Tour de France ",
-    "Tel": "04.72.19.85.10",
-    "Adresse": "Villa Jeanne d'Arc - 1, rue Champaviotte, 38120 Saint-Egrève",
-    "Ville": "Saint-Egrève"
   },
   {
     "Name": "AFTRAL CFATL BTP Le Cheylas ",
@@ -8236,12 +7690,6 @@
     "Tel": "04 76 28 26 98",
     "Adresse": "10 rue Aimé Pupin, 38029 Cedex 02 Grenoble",
     "Ville": "Cedex 02 Grenoble"
-  },
-  {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "04 76 25 04 04",
-    "Adresse": "15-17, rue Paul Claudel, 38000 Grenoble",
-    "Ville": "Grenoble"
   },
   {
     "Name": "AFTRAL Saint-Quentin-Fallavier ",
@@ -8344,12 +7792,6 @@
     "Tel": "04.77.23.63.98",
     "Adresse": "1 rue Charbillot, 42300 Roanne",
     "Ville": "Roanne"
-  },
-  {
-    "Name": "Maison familiale rurale de Montbrison ",
-    "Tel": "04.77.58.19.22",
-    "Adresse": "31 avenue d'Allard, 42600 Montbrison",
-    "Ville": "Montbrison"
   },
   {
     "Name": "Maison familiale rurale de Montbrison ",
@@ -8550,12 +7992,6 @@
     "Ville": "Cournon"
   },
   {
-    "Name": "CFA de l'industrie d'Auvergne ",
-    "Tel": "04 73 69 41 11",
-    "Adresse": "14, rue des Acilloux, 63800 Cournon",
-    "Ville": "Cournon"
-  },
-  {
     "Name": "CFA du bâtiment et des travaux publics André Gendre ",
     "Tel": "04 73 44 00 70",
     "Adresse": "4 rue Louis Dabert, 63000 Clermont-Ferrand",
@@ -8566,12 +8002,6 @@
     "Tel": "04.73.31.74.50",
     "Adresse": "Voie Romaine, 63400 Chamalières",
     "Ville": "Chamalières"
-  },
-  {
-    "Name": "CFA de l'industrie d'Auvergne  ",
-    "Tel": "04 73 51 04 03",
-    "Adresse": "Place de l'Europe, 63300 Thiers",
-    "Ville": "Thiers"
   },
   {
     "Name": "Lycée Professionnel Val de Dore ",
@@ -8706,12 +8136,6 @@
     "Ville": "Clermont-Ferrand"
   },
   {
-    "Name": "CFA de l'industrie d'Auvergne ",
-    "Tel": "04 73 51 04 03",
-    "Adresse": "Place de l'Europe, 63300 Thiers",
-    "Ville": "Thiers"
-  },
-  {
     "Name": "CFA IFIR  ",
     "Tel": "04 78 77 05 56",
     "Adresse": "66, avenue Jean Mermoz, 69351 Lyon",
@@ -8734,12 +8158,6 @@
     "Tel": "04 72 78 34 56",
     "Adresse": "Parc d'Affaires du Moulin à Vent - 33 avenue du Docteur Georges Lévy, 69200 Vénissieux",
     "Ville": "Vénissieux"
-  },
-  {
-    "Name": "GNFA (Groupement National pour la Formation Automobile) Centre de Lyon ",
-    "Tel": "04 72 01 42 00",
-    "Adresse": "Parc des Lumières ZAC de la Fouillouse 6 rue Nicéphore Niepce, 69800 Saint-Priest",
-    "Ville": "Saint-Priest"
   },
   {
     "Name": "GNFA (Groupement National pour la Formation Automobile) Centre de Lyon ",
@@ -8790,12 +8208,6 @@
     "Ville": "Saint-Genis-Laval"
   },
   {
-    "Name": "CFA sport et animation Rhône-Alpes ",
-    "Tel": "04.78.38.56.46",
-    "Adresse": "4, place Carnot, 69002 Lyon",
-    "Ville": "Lyon"
-  },
-  {
     "Name": "Ecole d'ingénieurs du CESI - EI CESI Lyon ",
     "Tel": "04.72.18.89.89",
     "Adresse": "19 avenue Guy de Collongue, 69130 Ecully",
@@ -8824,12 +8236,6 @@
     "Tel": "04.74.70.50.72",
     "Adresse": "292 rue du stade, 69930 Saint-Laurent-de-Chamousset",
     "Ville": "Saint-Laurent-de-Chamousset"
-  },
-  {
-    "Name": "Ecole Internationale Tunon ",
-    "Tel": "04 78 28 85 16",
-    "Adresse": "7 Rue Boissac, 69002 Lyon",
-    "Ville": "Lyon"
   },
   {
     "Name": "Société d'enseignement professionnel du Rhône - SEPR Serin ",
@@ -9186,12 +8592,6 @@
     "Ville": "Saint-Alban-Leysse"
   },
   {
-    "Name": "CFA du bâtiment de Savoie et Haute Savoie ",
-    "Tel": "04 79 72 63 63",
-    "Adresse": "319, rue du Clos, 73230 Saint-Alban-Leysse",
-    "Ville": "Saint-Alban-Leysse"
-  },
-  {
     "Name": "IAE Université Chambéry - Site de Jacob-Bellecombette ",
     "Tel": "04 79 75 84 40",
     "Adresse": "1 route de Saint-Cassin, 73000 Jacob-Bellecombette",
@@ -9208,12 +8608,6 @@
     "Tel": "04 79 33 10 24",
     "Adresse": "Le Fontanil, 73230 Saint-Alban-Leysse",
     "Ville": "Saint-Alban-Leysse"
-  },
-  {
-    "Name": "ECORIS  ",
-    "Tel": "04 79 69 28 17",
-    "Adresse": "74 rue de Chantabord, 73000 Chambéry",
-    "Ville": "Chambéry"
   },
   {
     "Name": "IPAC Albertville ",
@@ -9262,12 +8656,6 @@
     "Tel": "809908908",
     "Adresse": "10 Av. des Châtelets - ZI des Châtelets, 22440 Ploufragan",
     "Ville": "Ploufragan"
-  },
-  {
-    "Name": "Lycée professionnel Jean Monnet ",
-    "Tel": "02 96 74 86 26",
-    "Adresse": "9 rue des Ursulines, 22800 Quintin",
-    "Ville": "Quintin"
   },
   {
     "Name": "Lycée professionnel Jean Monnet ",
@@ -9384,12 +8772,6 @@
     "Ville": "Quimper"
   },
   {
-    "Name": "EMBA Business School ",
-    "Tel": "02 98 10 16 16",
-    "Adresse": "1 avenue de la Plage des Gueux, 29000 Quimper",
-    "Ville": "Quimper"
-  },
-  {
     "Name": "AFTRAL Morlaix ",
     "Tel": "809908908",
     "Adresse": "11 b zone De Kermat, 29410 Guiclan",
@@ -9474,22 +8856,10 @@
     "Ville": "Brest"
   },
   {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "02 98 90 85 71",
-    "Adresse": "2 rue de l’Université, 29000 Quimper",
-    "Ville": "Quimper"
-  },
-  {
     "Name": "MFR de Landivisiau ",
     "Tel": "02 98 68 02 24",
     "Adresse": "41 rue Georges Clemenceau, 29400 Landivisiau",
     "Ville": "Landivisiau"
-  },
-  {
-    "Name": "CHAMB’AGRI FORMATION ",
-    "Tel": "02 98 73 05 88",
-    "Adresse": "Kergadalen, 29590 Saint Segal",
-    "Ville": "Saint Segal"
   },
   {
     "Name": "Brest Business School ",
@@ -9516,12 +8886,6 @@
     "Ville": "Ergue Gaberic"
   },
   {
-    "Name": "CFA des Compagnons du Devoir du Tour de France ",
-    "Tel": "02 98 05 19 73",
-    "Adresse": "155 rue de Verdun, 29200 Brest",
-    "Ville": "Brest"
-  },
-  {
     "Name": "CFA Propreté inhni Ouest  ",
     "Tel": "02 99 26 10 80",
     "Adresse": "Campus de Ker Lann, Rue Urbain Leverrier, 35170 Bruz",
@@ -9538,12 +8902,6 @@
     "Tel": "02 99 42 01 26",
     "Adresse": "34 rue des Croix de Roche, 35580 Goven",
     "Ville": "Goven"
-  },
-  {
-    "Name": "Cfa du Groupe Antoine de Saint-Exupéry ",
-    "Tel": "02 99 59 34 94",
-    "Adresse": "Rue Fernand Robert, 35042 Rennes",
-    "Ville": "Rennes"
   },
   {
     "Name": "Cfa du Groupe Antoine de Saint-Exupéry ",
@@ -9574,12 +8932,6 @@
     "Tel": "02 99 98 01 59",
     "Adresse": "5 rue Monseigneur Gry, 35420 Louvigné-du-désert",
     "Ville": "Louvigné-du-désert"
-  },
-  {
-    "Name": "CFA des Compagnons du Devoir ",
-    "Tel": "02 99 65 14 00",
-    "Adresse": "2 rue Jules Vernes, 35000 Rennes",
-    "Ville": "Rennes"
   },
   {
     "Name": "CFAI - CFA de l'industrie de Bretagne (antenne de Bruz) ",
@@ -9616,12 +8968,6 @@
     "Tel": "02 99 06 42 56",
     "Adresse": "La Rouvraie, 35360 Montauban de Bretagne",
     "Ville": "Montauban de Bretagne"
-  },
-  {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "02 99 52 55 34",
-    "Adresse": "Campus de Ker-Lann rue Urbain le Verrier, 35170 Bruz",
-    "Ville": "Bruz"
   },
   {
     "Name": "MFR de Saint Symphorien - Hédé ",
@@ -9802,12 +9148,6 @@
     "Tel": "02 97 63 43 09",
     "Adresse": "12, boulevard des îles, 56010 Vannes",
     "Ville": "Vannes"
-  },
-  {
-    "Name": "CFA de la CCI du Morbihan ",
-    "Tel": "02 97 02 40 00",
-    "Adresse": "2 bis rue Edouard Beauvais, 56100 Lorient Cedex",
-    "Ville": "Lorient Cedex"
   },
   {
     "Name": "CFA de la CCI du Morbihan ",
@@ -10050,12 +9390,6 @@
     "Ville": "Etampes"
   },
   {
-    "Name": "Maison Familiale Rurale Etampes ",
-    "Tel": "01 64 94 75 75",
-    "Adresse": "Domaine de Vauroux - rue du Professeur Tubiana, 91154 Etampes",
-    "Ville": "Etampes"
-  },
-  {
     "Name": "ICO Institut et Centre d'Optométrie ",
     "Tel": "01 64 86 12 11",
     "Adresse": "134 route de Chartres, 91440 Bures-sur-Yvette",
@@ -10254,12 +9588,6 @@
     "Ville": "Issy-les-Moulineaux"
   },
   {
-    "Name": "CNFPT - Centre National de la Fonction Publique Territoriale  ",
-    "Tel": "01 46 48 03 20",
-    "Adresse": "165 rue Jean Jacques Rousseau, 92130 Issy-les-Moulineaux",
-    "Ville": "Issy-les-Moulineaux"
-  },
-  {
     "Name": "AFTRAL Gennevilliers ",
     "Tel": "809908908",
     "Adresse": "11 route Principale Du Port, 92230 Gennevilliers",
@@ -10374,12 +9702,6 @@
     "Ville": "Fontenay-aux-Roses"
   },
   {
-    "Name": "CFA Sup de Vinci ",
-    "Tel": "01 41 16 72 80",
-    "Adresse": "6-12 avenue Léonard de Vinci, 92916 Paris La Défense",
-    "Ville": "Paris La Défense"
-  },
-  {
     "Name": "CESI Ecole d'ingénieurs Campus de Paris Nanterre ",
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
@@ -10479,18 +9801,6 @@
     "Name": "ISUPCOMPTA ",
     "Tel": "01 74 34 14 80",
     "Adresse": "16 rue du capitaine Ferber, 92130 Issy les Moulineaux",
-    "Ville": "Issy les Moulineaux"
-  },
-  {
-    "Name": "IFPASS - Institut de Formation de la Profession de l'Assurance ",
-    "Tel": "01 47 76 58 00",
-    "Adresse": "172 rue de la République, 92800 Puteaux",
-    "Ville": "Puteaux"
-  },
-  {
-    "Name": "AFORP Formation ",
-    "Tel": "01 41 46 09 22",
-    "Adresse": "34 rue Baudin, 92130 Issy les Moulineaux",
     "Ville": "Issy les Moulineaux"
   },
   {
@@ -10686,21 +9996,9 @@
     "Ville": "PARIS"
   },
   {
-    "Name": "École Supérieure de la Bio ",
-    "Tel": "04 28 48 00 92",
-    "Adresse": "6 rue Albert de Lapparent, 75007 PARIS",
-    "Ville": "PARIS"
-  },
-  {
     "Name": "ESCP Business School ",
     "Tel": "01 49 23 20 00",
     "Adresse": "79 avenue de la République, 75543 Paris",
-    "Ville": "Paris"
-  },
-  {
-    "Name": "Ecole Internationale Tunon ",
-    "Tel": "01 43 59 80 00",
-    "Adresse": "164 rue du Faubourg Saint Honoré, 75008 Paris",
     "Ville": "Paris"
   },
   {
@@ -10974,12 +10272,6 @@
     "Ville": "Paris Cedex 16"
   },
   {
-    "Name": "CFA des métiers de la banque et de la finance ",
-    "Tel": "01 41 02 59 60",
-    "Adresse": "1 place de la pyramide, Tour Atlantique-Paris La Défense, 92800 Puteaux",
-    "Ville": "Puteaux"
-  },
-  {
     "Name": "CFA de La Bonne Graine - école d'ameublement de Paris ",
     "Tel": "01 43 72 22 88",
     "Adresse": "200 bis boulevard Voltaire, 75011 Paris",
@@ -11136,12 +10428,6 @@
     "Ville": "Paris"
   },
   {
-    "Name": "School of Cyber ",
-    "Tel": "01 89 62 31 85",
-    "Adresse": "10 rue de Colonel Rozanoff, 75012 Paris",
-    "Ville": "Paris"
-  },
-  {
     "Name": "Lycée polyvalent Paul Poiret ",
     "Tel": "01 55 28 82 00",
     "Adresse": "19 rue Taillandiers, 75011 Paris",
@@ -11187,12 +10473,6 @@
     "Name": "H3Campus Paris ",
     "Tel": "01 42 80 00 49",
     "Adresse": "35 rue de Clichy, 75009 Paris",
-    "Ville": "Paris"
-  },
-  {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "01 44 37 30 40",
-    "Adresse": "192, rue Lecourbe, 75005 Paris",
     "Ville": "Paris"
   },
   {
@@ -11352,22 +10632,10 @@
     "Ville": "Champs-sur-Marne"
   },
   {
-    "Name": "CFA du Social  ",
-    "Tel": "N/A",
-    "Adresse": "N/A,  N/A",
-    "Ville": "N/A"
-  },
-  {
     "Name": "CFA de la Chambre de Métiers et de l'Artisanat 77 - IMA du Pays de Meaux  ",
     "Tel": "01 64 79 27 05",
     "Adresse": "2 Rue Irène Joliot-Curie, 77124 Chauconin-Neufmontiers",
     "Ville": "Chauconin-Neufmontiers"
-  },
-  {
-    "Name": "CFA Interprofessionnel de Marne-la-Vallée - Site de Dammarie-les-Lys ",
-    "Tel": "01 60 37 41 55",
-    "Adresse": "200 rue de la Fosse aux Anglais, 77190 Dammarie-les-Lys",
-    "Ville": "Dammarie-les-Lys"
   },
   {
     "Name": "CFA Interprofessionnel de Marne-la-Vallée - Site de Dammarie-les-Lys ",
@@ -11616,12 +10884,6 @@
     "Ville": "Melun"
   },
   {
-    "Name": "CFA PROMOTRANS  ",
-    "Tel": "01 64 33 94 58",
-    "Adresse": "18 Rue Pascal, 77100 Meaux",
-    "Ville": "Meaux"
-  },
-  {
     "Name": "AFTRAL Savigny-Le-Temple ",
     "Tel": "809908908",
     "Adresse": "2 rue Du Zinc - ZAC de Villebouvet, 77176 Savigny Le Temple",
@@ -11632,12 +10894,6 @@
     "Tel": "03 26 25 28 79",
     "Adresse": "14 avenue de l'Europe, 77144 Montévrain",
     "Ville": "Montévrain"
-  },
-  {
-    "Name": "Institut National du Cycle et du Motocycle (INCM)  ",
-    "Tel": "01.49.92.10.47",
-    "Adresse": "47 rue du Commandant Rolland, 93350 Le Bourget",
-    "Ville": "Le Bourget"
   },
   {
     "Name": "CNPC SPORT PARIS  ",
@@ -11656,12 +10912,6 @@
     "Tel": "01 55 87 45 16",
     "Adresse": "6-8 place de la Résistance, 93200 Saint-Denis",
     "Ville": "Saint-Denis"
-  },
-  {
-    "Name": "ISTELI Aulnay-Sous-Bois - Institut Supérieur du Transport Et de la Logistique Internationale ",
-    "Tel": "809908908",
-    "Adresse": "604 Rue Robert Brémond, 93600 Aulnay-Sous-Bois",
-    "Ville": "Aulnay-Sous-Bois"
   },
   {
     "Name": "ISTELI Aulnay-Sous-Bois - Institut Supérieur du Transport Et de la Logistique Internationale ",
@@ -11808,12 +11058,6 @@
     "Ville": "La Plaine Saint Denis"
   },
   {
-    "Name": "BTP CFA Saint Denis ",
-    "Tel": "01 49 71 30 30",
-    "Adresse": "21, rue Prairial, 93200 Saint-Denis",
-    "Ville": "Saint-Denis"
-  },
-  {
     "Name": "CFA CAMAS  ",
     "Tel": "01 56 48 09 10",
     "Adresse": "Z.A CDG 7 impasse Nicéphore Niépce, 93290 Tremblay-en-France",
@@ -11850,12 +11094,6 @@
     "Ville": "Saint-Ouen"
   },
   {
-    "Name": "CFA CCIP - Gobelins l'école de l'image ",
-    "Tel": "01 48 15 52 00",
-    "Adresse": "11 rue du Ballon - ZI des Richardets, 93165 Noisy-Le-Grand",
-    "Ville": "Noisy-Le-Grand"
-  },
-  {
     "Name": "Lycée Paul Eluard ",
     "Tel": "01 49 71 70 00",
     "Adresse": "15-17 avenue Jean Moulin, 93200 Saint-Denis",
@@ -11878,12 +11116,6 @@
     "Tel": "01 48 32 01 30",
     "Adresse": "136, avenue de Castelnau, 93700 Drancy",
     "Ville": "Drancy"
-  },
-  {
-    "Name": "AFORP Formation ",
-    "Tel": "01 43 11 10 76",
-    "Adresse": "Rue de la Butte, 93700 Drancy - Le Bourget",
-    "Ville": "Drancy - Le Bourget"
   },
   {
     "Name": "Ecole d'ingénieurs SUP Galilée\nUniversité Paris 13 ",
@@ -11946,18 +11178,6 @@
     "Ville": "Boissy-Saint-Léger"
   },
   {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "01 46 82 56 00",
-    "Adresse": "Z.I. Les Ardoines 20 rue du bel Air, 94400 Vitry-Sur-Seine",
-    "Ville": "Vitry-Sur-Seine"
-  },
-  {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "01 46 82 56 00",
-    "Adresse": "Z.I. Les Ardoines 20 rue du bel Air, 94400 Vitry-Sur-Seine",
-    "Ville": "Vitry-Sur-Seine"
-  },
-  {
     "Name": "CFA de l'Académie de Créteil ",
     "Tel": "01 57 02 67 74",
     "Adresse": "25 rue Georges Enesco, 94025 Créteil",
@@ -12016,12 +11236,6 @@
     "Tel": "01 49 08 56 50",
     "Adresse": "28 avenue du Président Wilson, 94230 Cachan",
     "Ville": "Cachan"
-  },
-  {
-    "Name": "CFA CAMAS ",
-    "Tel": "01 41 73 01 50",
-    "Adresse": "80 rue d’Arceuil, 94150 Rungis",
-    "Ville": "Rungis"
   },
   {
     "Name": "IUT site de Créteil - Université Paris-Est Créteil ",
@@ -12156,22 +11370,10 @@
     "Ville": "Cergy-Pontoise"
   },
   {
-    "Name": "CFA PROMOTRANS  ",
-    "Tel": "01 39 87 06 44",
-    "Adresse": "1 avenue du XXIe siècle, 95500 Gonesse",
-    "Ville": "Gonesse"
-  },
-  {
     "Name": "Lycée Polyvalent Gustave Monod ",
     "Tel": "01 39 89 32 41",
     "Adresse": "71 avenue de la Ceinture, 95880 Enghien-les-Bains",
     "Ville": "Enghien-les-Bains"
-  },
-  {
-    "Name": "Faculté de droit - CY Cergy Paris Université ",
-    "Tel": "01 34 25 60 00",
-    "Adresse": "Site des Chênes 1 - 33 boulevard du Port, 95011 Cergy Pontoise",
-    "Ville": "Cergy Pontoise"
   },
   {
     "Name": "Faculté de droit - CY Cergy Paris Université ",
@@ -12342,18 +11544,6 @@
     "Ville": "N/A"
   },
   {
-    "Name": "ACPPAV Pharmacie Santé Sanitaire et Social  ",
-    "Tel": "01 39 22 10 60",
-    "Adresse": "14, rue Gustave Eiffel, 78306 Poissy",
-    "Ville": "Poissy"
-  },
-  {
-    "Name": "Institut National du Cycle et du Motocycle (INCM)  ",
-    "Tel": "N/A",
-    "Adresse": "N/A,  N/A",
-    "Ville": "N/A"
-  },
-  {
     "Name": "CFA Trajectoire  ",
     "Tel": "01 88 62 00 30",
     "Adresse": "19 Avenue du Centre, 78280 Guyancourt",
@@ -12370,12 +11560,6 @@
     "Tel": "01 39 79 63 50",
     "Adresse": "7 bis, Enclos de l'Abbaye, 78300 Poissy",
     "Ville": "Poissy"
-  },
-  {
-    "Name": "CFA de la Navigation Intérieure ",
-    "Tel": "01 34 94 27 70",
-    "Adresse": "43 rue du Général de Gaulle, 78490 Le Tremblay-sur-Mauldre",
-    "Ville": "Le Tremblay-sur-Mauldre"
   },
   {
     "Name": "CFA de la Navigation Intérieure ",
@@ -12484,12 +11668,6 @@
     "Tel": "01 30 87 18 00",
     "Adresse": "Chemin de la Jonction, 78100 Saint-Germain-en-Laye",
     "Ville": "Saint-Germain-en-Laye"
-  },
-  {
-    "Name": "AFORP Formation ",
-    "Tel": "01 30 92 89 86",
-    "Adresse": "6, rue Camélinat, 78200 Mantes-la-Ville",
-    "Ville": "Mantes-la-Ville"
   },
   {
     "Name": "L’ÉA - campus Itedec ",
@@ -12702,12 +11880,6 @@
     "Ville": "Saint-Quentin"
   },
   {
-    "Name": "Lycée des Métiers d'Art ",
-    "Tel": "03 23 65 09 98",
-    "Adresse": "Rue Fleming, 02100 Saint-Quentin",
-    "Ville": "Saint-Quentin"
-  },
-  {
     "Name": "Lycée des Métiers Saint-Charles ",
     "Tel": "03 23 52 10 50",
     "Adresse": "1 rue du Brouage, 02300 Chauny",
@@ -12840,12 +12012,6 @@
     "Ville": "Bohain-en-Vermandois"
   },
   {
-    "Name": "Lycée professionnel Léonard de Vinci ",
-    "Tel": "03 23 75 35 50",
-    "Adresse": "1 Espace Jean Guerland, 02331 Soissons",
-    "Ville": "Soissons"
-  },
-  {
     "Name": "UFA du CFPPA de Vervins ",
     "Tel": "03 23 91 31 50",
     "Adresse": "Rue Porte des Champs, 02140 Vervins",
@@ -12868,12 +12034,6 @@
     "Tel": "03 23 23 32 90",
     "Adresse": "Chemin d'Aulnois, 02000 Laon",
     "Ville": "Laon"
-  },
-  {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "03 23 64 33 87",
-    "Adresse": "ZAC La Vallée Rue Marcel Paul, 02100 Saint-Quentin",
-    "Ville": "Saint-Quentin"
   },
   {
     "Name": "CFA académique de Lille  ",
@@ -12936,12 +12096,6 @@
     "Ville": "Lille"
   },
   {
-    "Name": "UFA OEC PRO - Lycée privé Frédéric Ozanam ",
-    "Tel": "03 20 21 98 81",
-    "Adresse": "50 rue Saint-Gabriel, 59045 Lille",
-    "Ville": "Lille"
-  },
-  {
     "Name": "CFA de l'industrie Nord-Pas-de-Calais - Antenne d'Escaudoeuvres ",
     "Tel": "03 27 45 24 15",
     "Adresse": "301, rue Jean Jaurès, 59161 Escaudoeuvres",
@@ -12958,12 +12112,6 @@
     "Tel": "809908908",
     "Adresse": "rue François-Noël Babeuf, 59760 Grande Synthe",
     "Ville": "Grande Synthe"
-  },
-  {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "03 28 76 96 60",
-    "Adresse": "Rue John Hadley, 59491 Villeneuve d'Ascq",
-    "Ville": "Villeneuve d'Ascq"
   },
   {
     "Name": "ISTELI Lille - Institut Supérieur du Transport Et de la Logistique Internationale ",
@@ -13092,22 +12240,10 @@
     "Ville": "Villeneuve-d'Ascq"
   },
   {
-    "Name": "CFA de l'industrie Nord-Pas-de-Calais  ",
-    "Tel": "03 28 33 61 61",
-    "Adresse": "45/2 avenue de Flandre, 59290 Wasquehal",
-    "Ville": "Wasquehal"
-  },
-  {
     "Name": "ISA Lille ",
     "Tel": "03 28 38 48 48",
     "Adresse": "48 boulevard Vauban, 59046 Lille",
     "Ville": "Lille"
-  },
-  {
-    "Name": "CFA de la Chambre de Métiers du Nord ",
-    "Tel": "03 20 03 37 88",
-    "Adresse": "171, chaussée Denis Papin, 59200 Tourcoing",
-    "Ville": "Tourcoing"
   },
   {
     "Name": "CFA chambre de métiers et de l'artisanat du Nord ",
@@ -13224,12 +12360,6 @@
     "Ville": "Roubaix"
   },
   {
-    "Name": "Lycée Professionnel Michel Servet ",
-    "Tel": "03 20 22 73 73",
-    "Adresse": "1, rue Michel Servet, 59000 Lille",
-    "Ville": "Lille"
-  },
-  {
     "Name": "AFTRAL Valenciennes ",
     "Tel": "809908908",
     "Adresse": "1 rue François Coli, 59121 Prouvy",
@@ -13272,12 +12402,6 @@
     "Ville": "Hazebrouck"
   },
   {
-    "Name": "UFA du Lycée professionnel Camille Claudel ",
-    "Tel": "03 27 56 42 00",
-    "Adresse": "1 rue Paul Lafargue, 59613 Fourmies",
-    "Ville": "Fourmies"
-  },
-  {
     "Name": "Ecole supérieure des services et du tertiaire (E2ST) ",
     "Tel": "03.20.24.23.23",
     "Adresse": "45, avenue André-Chénier, 59053 Roubaix",
@@ -13318,12 +12442,6 @@
     "Tel": "03 28 58 80 30",
     "Adresse": "1972, rue de Leffrinckoucke, 59948 Dunkerque",
     "Ville": "Dunkerque"
-  },
-  {
-    "Name": "CFA de la Chambre de Métiers du Nord ",
-    "Tel": "03 27 21 16 17",
-    "Adresse": "Avenue Marc Lefrancq, 59309 Prouvy Valenciennes",
-    "Ville": "Prouvy Valenciennes"
   },
   {
     "Name": "CFA Banques Nord-Pas-de-Calais ",
@@ -13506,22 +12624,10 @@
     "Ville": "Prouvy"
   },
   {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "03 20 57 79 30",
-    "Adresse": "57 rue Pierre Mauroy, 59000 Lille",
-    "Ville": "Lille"
-  },
-  {
     "Name": "FORMASUP - CFA du Supérieur - Institut d'administration des entreprises ",
     "Tel": "03.20.12.34.50",
     "Adresse": "104, Avenue du Peuple Belge, 59800 Lille",
     "Ville": "Lille"
-  },
-  {
-    "Name": "CFA de la Chambre de Métiers du Nord ",
-    "Tel": "03 28 61 48 48",
-    "Adresse": "36, rue Vatel, 59180 Capelle-la-Grande",
-    "Ville": "Capelle-la-Grande"
   },
   {
     "Name": "FORMASUP - CFA du Supérieur - ITIAPE ",
@@ -13624,12 +12730,6 @@
     "Tel": "03.21.41.01.22",
     "Adresse": "91 Rue André Régnier, 60170 Ribécourt",
     "Ville": "Ribécourt"
-  },
-  {
-    "Name": "MFR de Saint-Sulpice ",
-    "Tel": "03 44 81 11 22",
-    "Adresse": "4 Château de Crécy, 60430 Saint-Sulpice",
-    "Ville": "Saint-Sulpice"
   },
   {
     "Name": "MFR de Saint-Sulpice ",
@@ -13816,12 +12916,6 @@
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
     "Ville": "N/A"
-  },
-  {
-    "Name": "AFTRAL CFATL Arras ",
-    "Tel": "809908908",
-    "Adresse": "rue Geiger - ZI EST, 62000 Arras",
-    "Ville": "Arras"
   },
   {
     "Name": "AFTRAL CFATL Arras ",
@@ -14088,12 +13182,6 @@
     "Ville": "Henin Beaumont"
   },
   {
-    "Name": "UFA du Lycée Edouard-Branly ",
-    "Tel": "03.21.99.68.00",
-    "Adresse": "2, rue Porte-Gayole, 62320 Boulogne-sur-Mer",
-    "Ville": "Boulogne-sur-Mer"
-  },
-  {
     "Name": "UFA du lycée Jean Bertin des Travaux Publics ",
     "Tel": "03 21 62 40 50",
     "Adresse": "1409 Rue d'Aire, 62702 Bruay-la-Buissière",
@@ -14110,12 +13198,6 @@
     "Tel": "03 21 77 35 77",
     "Adresse": "553 Boulevard Fernand Darchicourt, 62110 Henin Beaumont",
     "Ville": "Henin Beaumont"
-  },
-  {
-    "Name": "CFA chambre de métiers et de l'artisanat du Pas de Calais ",
-    "Tel": "03 21 97 31 03",
-    "Adresse": "320 boulevard du 8 Mai, 62100 Calais",
-    "Ville": "Calais"
   },
   {
     "Name": "Lycée professionnel Pierre Mendès France ",
@@ -14220,12 +13302,6 @@
     "Ville": "Campagne-les-Boulonnais"
   },
   {
-    "Name": "CFAI région Nord-Pas de Calais ",
-    "Tel": "03 21 30 31 80",
-    "Adresse": "Parc d'Activités Mont Joie - Blanc Pignon, 62200 Boulogne-sur-Mer",
-    "Ville": "Boulogne-sur-Mer"
-  },
-  {
     "Name": "UFA de la Haute-Somme - Site de Ribemont-sur-Ancre  ",
     "Tel": "03.22.40.30.93",
     "Adresse": "10 Rue Quinconce BP 90003 80201, 80800 Ribemont-sur-Ancre",
@@ -14248,12 +13324,6 @@
     "Tel": "03.22.35.30.20",
     "Adresse": "Le Paraclet  Lieu-dit Le Paraclet, 80440 Cottenchy",
     "Ville": "Cottenchy"
-  },
-  {
-    "Name": "ITII Picardie - Institut des Techniques d'Ingénieur de l'Industrie  ",
-    "Tel": "03 22 33 65 64",
-    "Adresse": "Avenue des Facultés, 80025 Amiens",
-    "Ville": "Amiens"
   },
   {
     "Name": "ITII Picardie - Institut des Techniques d'Ingénieur de l'Industrie  ",
@@ -14382,12 +13452,6 @@
     "Ville": "Ribemont-sur-Ancre"
   },
   {
-    "Name": "CFA du bâtiment et des travaux publics ",
-    "Tel": "03 22 46 87 77",
-    "Adresse": "17 rue Pierre Rollin, 80000 Amiens",
-    "Ville": "Amiens"
-  },
-  {
     "Name": "IFRIA Picardie - Métiers de l'industrie alimentaire ",
     "Tel": "03 22 53 23 19",
     "Adresse": "41 avenue Paul Claudel, 80480 Dury",
@@ -14460,12 +13524,6 @@
     "Ville": "Orléans"
   },
   {
-    "Name": "CFA Banques Centre ",
-    "Tel": "02 38 62 29 89",
-    "Adresse": "8 place Jean Monnet, 45000 Orléans",
-    "Ville": "Orléans"
-  },
-  {
     "Name": "CFAS CENTRE ",
     "Tel": "02 38 65 09 60",
     "Adresse": "1876, rue du Général de Gaule, 45160 Olivet",
@@ -14524,12 +13582,6 @@
     "Tel": "02.38.69.17.45",
     "Adresse": "2032, rue du Général-de-Gaulle, 45160 Olivet",
     "Ville": "Olivet"
-  },
-  {
-    "Name": "CFA de la Pharmacie ",
-    "Tel": "02 38 84 39 57",
-    "Adresse": "7 rue François Hauchecorne, 45000 Orléans",
-    "Ville": "Orléans"
   },
   {
     "Name": "MFR Gien ",
@@ -14622,12 +13674,6 @@
     "Ville": "Orléans"
   },
   {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "02 38 43 71 02",
-    "Adresse": "10 rue Lavoisier, 45140 Ingré",
-    "Ville": "Ingré"
-  },
-  {
     "Name": "UFR Droit Economie Gestion Orléans ",
     "Tel": "02 38 41 70 31",
     "Adresse": "Rue de Blois, 45000 Orléans Cedex 2",
@@ -14706,22 +13752,10 @@
     "Ville": "Bourges"
   },
   {
-    "Name": "CFA des Universités Centre-Val de Loire ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "63 avenue de Lattre de Tassigny, 18020 Bourges",
-    "Ville": "Bourges"
-  },
-  {
     "Name": "CFSA HUBERT CURIEN ",
     "Tel": "02 48 67 55 51",
     "Adresse": "25 rue Louis Mallet CS70237, 18022 Cedex Bourges",
     "Ville": "Cedex Bourges"
-  },
-  {
-    "Name": "CFA Pharmacie ",
-    "Tel": "02 48 65 60 87",
-    "Adresse": "Rue Gaston Berger, 18000 Bourges",
-    "Ville": "Bourges"
   },
   {
     "Name": "CFA Pharmacie ",
@@ -14790,12 +13824,6 @@
     "Ville": "Bourges"
   },
   {
-    "Name": "CFA des Universités Centre-Val de Loire ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "1 Place Roger Joly, 28000 Chartres",
-    "Ville": "Chartres"
-  },
-  {
     "Name": "Lycée d'Enseignement Agricole Privé de Nermont ",
     "Tel": "02.37.44.60.60",
     "Adresse": "2 rue de Nermont , La Chapelle du noyer, 28200 Châteaudun",
@@ -14806,12 +13834,6 @@
     "Tel": "02.37.26.46.07",
     "Adresse": "2 rue des Fleurs, 28630 Mignières",
     "Ville": "Mignières"
-  },
-  {
-    "Name": "CFA agricole de Chartres (CFA CFPPA) ",
-    "Tel": "02 37 33 72 25",
-    "Adresse": "La Saussaye, 28630 Sours",
-    "Ville": "Sours"
   },
   {
     "Name": "CFA agricole de Chartres (CFA CFPPA) ",
@@ -14874,24 +13896,6 @@
     "Ville": "Chateauroux"
   },
   {
-    "Name": "CFA des Universités Centre-Val de Loire ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "2 Avenue François Mitterrand, 36000 Châteauroux",
-    "Ville": "Châteauroux"
-  },
-  {
-    "Name": "CFA des Universités Centre-Val de Loire ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "5, rue Georges-Brassens, 36100 Issoudun",
-    "Ville": "Issoudun"
-  },
-  {
-    "Name": "CFAI-CENTRE (Centre de Formation d'Apprentis Industrie Région Centre) ",
-    "Tel": "02 54 29 42 00",
-    "Adresse": "15 place Lafayette, 36000 Châteauroux",
-    "Ville": "Châteauroux"
-  },
-  {
     "Name": "CFAI-CENTRE (Centre de Formation d'Apprentis Industrie Région Centre) ",
     "Tel": "02 54 29 42 00",
     "Adresse": "15 place Lafayette, 36000 Châteauroux",
@@ -14940,12 +13944,6 @@
     "Ville": "Châteauroux"
   },
   {
-    "Name": "CFA des Universités Centre-Val de Loire  ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "135 avenue Maginot, 37082 Tours",
-    "Ville": "Tours"
-  },
-  {
     "Name": "CFA Les Compagnons du Devoir - Maison de Chinon  ",
     "Tel": "N/A",
     "Adresse": "N/A,  N/A",
@@ -14974,18 +13972,6 @@
     "Tel": "02.47.23.46.20",
     "Adresse": "rue du Clos-des-Gardes, 37400 Amboise",
     "Ville": "Amboise"
-  },
-  {
-    "Name": "Lycée Professionnel Jean-Chaptal ",
-    "Tel": "02.47.23.46.20",
-    "Adresse": "rue du Clos-des-Gardes, 37400 Amboise",
-    "Ville": "Amboise"
-  },
-  {
-    "Name": "CFA Pharmacie ",
-    "Tel": "02 47 67 10 11",
-    "Adresse": "7/5 rue Joseph Cugnot, 37300 Joué-les-Tours",
-    "Ville": "Joué-les-Tours"
   },
   {
     "Name": "Ecole tourangelle supérieure ",
@@ -15204,22 +14190,10 @@
     "Ville": "Saint-Firmin-des-Prés"
   },
   {
-    "Name": "CFA des Universités Centre-Val de Loire ",
-    "Tel": "02 47 36 76 32",
-    "Adresse": "15 rue de la Chocolaterie, 41000 Blois",
-    "Ville": "Blois"
-  },
-  {
     "Name": "CFA et Lycée agricole du Loir-et-Cher - Antenne de Montoire ",
     "Tel": "06.34.67.63.10",
     "Adresse": "6,rue de l'agriculture, 41800 Montoire-sur-le-Loir",
     "Ville": "Montoire-sur-le-Loir"
-  },
-  {
-    "Name": "Lycée d'Hôtellerie et de Tourisme du Val de Loire ",
-    "Tel": "02 54 51 51 54",
-    "Adresse": "174 rue Albert 1er, 41033 Blois",
-    "Ville": "Blois"
   },
   {
     "Name": "Lycée d'Hôtellerie et de Tourisme du Val de Loire ",
@@ -15258,12 +14232,6 @@
     "Ville": "Blois"
   },
   {
-    "Name": "CFA PROMOTRANS ",
-    "Tel": "02 54 73 37 30",
-    "Adresse": "9-11, allée du Bois de l'Orme, 41100 Saint-Ouen",
-    "Ville": "Saint-Ouen"
-  },
-  {
     "Name": "CNPC SPORT - NANTES  ",
     "Tel": "06 62 64 48 66",
     "Adresse": "22 rue de la Rainière – Parc du Perray, 44300 NANTES",
@@ -15292,12 +14260,6 @@
     "Tel": "02 28 25 45 68",
     "Adresse": "36 rue Jules Verne, 44700 Orvault",
     "Ville": "Orvault"
-  },
-  {
-    "Name": "Lycée Jules Rieffel ",
-    "Tel": "02 40 94 99 30",
-    "Adresse": "5, rue de la Syonnière, 44800 Saint-Herblain",
-    "Ville": "Saint-Herblain"
   },
   {
     "Name": "Lycée Jules Rieffel ",
@@ -15588,12 +14550,6 @@
     "Ville": "Saint Herblain"
   },
   {
-    "Name": "CFA-BTP de Saint-Brevin-les-Pins ",
-    "Tel": "02 40 27 29 68",
-    "Adresse": "ZI de La Guerche, 44250 Saint-Brévin-les-Pins",
-    "Ville": "Saint-Brévin-les-Pins"
-  },
-  {
     "Name": "Maison Familiale Rurale de Saint-Pére-en-Retz ",
     "Tel": "02 40 21 70 62",
     "Adresse": "Rue du Prieuré, 44320 Saint-Père-en-Retz",
@@ -15610,12 +14566,6 @@
     "Tel": "02.40.26.35.35",
     "Adresse": "7, rue du Bocage, 44650 Lege",
     "Ville": "Lege"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "02 51 82 25 25",
-    "Adresse": "4 chemin de la Chatterie, 44800 Saint-Herblain",
-    "Ville": "Saint-Herblain"
   },
   {
     "Name": "Lycée polyvalent Les Bourdonnières ",
@@ -15742,12 +14692,6 @@
     "Tel": "02.41.49.10.20",
     "Adresse": "Rue Eugène Brémond – CS 22116, 49321 CHOLET CEDEX",
     "Ville": "CHOLET CEDEX"
-  },
-  {
-    "Name": "CFA des Chambres d'Agriculture - Agrilia Formation ",
-    "Tel": "02 41 76 60 22",
-    "Adresse": "Site de Formation des Trinottières, 49140 Montreuil-sur-Loire",
-    "Ville": "Montreuil-sur-Loire"
   },
   {
     "Name": "CFA des Chambres d'Agriculture - Agrilia Formation ",
@@ -16002,12 +14946,6 @@
     "Ville": "Beaupreau"
   },
   {
-    "Name": "Lycée Jean Moulin ",
-    "Tel": "02 41 96 63 60",
-    "Adresse": "1 Place Jean Moulin, 49017 Angers",
-    "Ville": "Angers"
-  },
-  {
     "Name": "AFTRAL CFATL Angers ",
     "Tel": "809908908",
     "Adresse": "rue Fabien Cesbron - Saint-Sylvain-d'Anjou, 49480 Verrieres En Anjou",
@@ -16036,12 +14974,6 @@
     "Tel": "02 43 05 20 11",
     "Adresse": "Route de Caen, 53100 Mayenne",
     "Ville": "Mayenne"
-  },
-  {
-    "Name": "Maison Familiale Rurale de Saint-Berthevin ",
-    "Tel": "02 43 69 25 53",
-    "Adresse": "Rue Jean Cottereau de Saint-Berthevin, 53940 Saint-Berthevin",
-    "Ville": "Saint-Berthevin"
   },
   {
     "Name": "Maison Familiale Rurale de Saint-Berthevin ",
@@ -16122,12 +15054,6 @@
     "Ville": "Port-Brillet"
   },
   {
-    "Name": "Beauté Coiffure Formation ",
-    "Tel": "02 43 53 30 81",
-    "Adresse": "38 rue de Paris, 53000 Laval",
-    "Ville": "Laval"
-  },
-  {
     "Name": "Lycée professionnel Robert Buron ",
     "Tel": "02 43 67 24 20",
     "Adresse": "68 rue A Bellesort, 53013 Laval",
@@ -16204,12 +15130,6 @@
     "Tel": "02 43 83 34 11",
     "Adresse": "Avenue Olivier Messiaen, 72000 Le Mans",
     "Ville": "Le Mans"
-  },
-  {
-    "Name": "Maison Familiale Rurale de Verneil-le-Chétif ",
-    "Tel": "02 43 38 14 00",
-    "Adresse": "Mangé, 72360 Verneil-le-Chetif",
-    "Ville": "Verneil-le-Chetif"
   },
   {
     "Name": "Maison Familiale Rurale de Verneil-le-Chétif ",
@@ -16332,12 +15252,6 @@
     "Ville": "Le Mans Cedex 2"
   },
   {
-    "Name": "CFA des Compagnons du devoir ",
-    "Tel": "02 43 24 87 95",
-    "Adresse": "114, Grande-rue, 72000 Le Mans",
-    "Ville": "Le Mans"
-  },
-  {
     "Name": "CFA de la Chambre de Métiers en Alimentation et Fleuristerie ",
     "Tel": "02.43.85.03.79",
     "Adresse": "189, rue Henri Champion, 72100 Le Mans",
@@ -16366,12 +15280,6 @@
     "Tel": "809908908",
     "Adresse": "ZI du Bois Joly, 85500 Les Herbiers",
     "Ville": "Les Herbiers"
-  },
-  {
-    "Name": "Lycée des Etablières ",
-    "Tel": "0 820 893 555",
-    "Adresse": "Route de Nantes, 85000 La Roche-sur-Yon",
-    "Ville": "La Roche-sur-Yon"
   },
   {
     "Name": "Lycée des Etablières ",
@@ -16566,12 +15474,6 @@
     "Ville": "Digne-les-Bains"
   },
   {
-    "Name": "Lycée Professionnel du Sacré-Coeur ",
-    "Tel": "04 92 30 58 60",
-    "Adresse": "2 avenue des Thermes, 04000 Digne-les-Bains",
-    "Ville": "Digne-les-Bains"
-  },
-  {
     "Name": "GRETA-CFA Lycée Félix Esclangon ",
     "Tel": "04 92 52 55 70",
     "Adresse": "32 boulevard Louis Martin Bret, 04100 Manosque",
@@ -16668,12 +15570,6 @@
     "Ville": "Antibes"
   },
   {
-    "Name": "BTP CFA Antibes Centre de Formation du Bâtiment ",
-    "Tel": "04 92 91 32 00",
-    "Adresse": "80 rue Jean Joannon Quartier Les 3 Moulins, 06600 Antibes",
-    "Ville": "Antibes"
-  },
-  {
     "Name": "Lycée professionnel Saint-Vincent de Paul ",
     "Tel": "04 93 89 96 45",
     "Adresse": "17 rue Fodéré, 06300 Nice",
@@ -16734,12 +15630,6 @@
     "Ville": "Nice"
   },
   {
-    "Name": "ESCCOM ",
-    "Tel": "04 93 68 42 11",
-    "Adresse": "5 rue Migno, 06400 Cannes",
-    "Ville": "Cannes"
-  },
-  {
     "Name": "Lycée Honoré-d'Estienne-d'Orves - Beau-Site ",
     "Tel": "04 93 97 70 90",
     "Adresse": "38 avenue d'Estienne d'Orves, 06000 Nice",
@@ -16764,12 +15654,6 @@
     "Ville": "Nice"
   },
   {
-    "Name": "CFA DIFCAM Banque et Assurances ",
-    "Tel": "04 97 25 83 18",
-    "Adresse": "41 boulevard Napoléon III, 06200 Nice",
-    "Ville": "Nice"
-  },
-  {
     "Name": "IFPS - CCI Nice Côte d’Azur ",
     "Tel": "04 89 06 72 00",
     "Adresse": "120 boulevard du Point du Jour, 06700 Saint Laurent du Var",
@@ -16779,12 +15663,6 @@
     "Name": "Université de Nice Sophia Antipolis - Campus Trotabas ",
     "Tel": "04 92 15 72 30",
     "Adresse": "1 avenue Doyen Louis Trotabas, 06100 Nice",
-    "Ville": "Nice"
-  },
-  {
-    "Name": "ICS - Institut du Commerce et des Services annexe du CFAIM ",
-    "Tel": "04 91 14 28 22",
-    "Adresse": "Immeuble Nice Premium Entrée B 63 avenue Simone Veil, 06200 Nice",
     "Ville": "Nice"
   },
   {
@@ -16809,12 +15687,6 @@
     "Name": "ILEC - Nice ",
     "Tel": "04 92 17 33 10",
     "Adresse": "12 boulevard Dubouchage, 06000 Nice",
-    "Ville": "Nice"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "04 93 13 85 80",
-    "Adresse": "150 boulevard des Jardiniers - Hibiscus Park, 06200 Nice",
     "Ville": "Nice"
   },
   {
@@ -16924,12 +15796,6 @@
     "Tel": "04 42 58 46 41",
     "Adresse": "Chemin du moulin du Fort, 13548 Gardanne",
     "Ville": "Gardanne"
-  },
-  {
-    "Name": "Centre de Formation du Bâtiment d'Arles ",
-    "Tel": "04 90 97 82 79",
-    "Adresse": "6 chemin de Séverin, 13200 Arles",
-    "Ville": "Arles"
   },
   {
     "Name": "Centre de Formation du Bâtiment d'Arles ",
@@ -17086,12 +15952,6 @@
     "Tel": "04 42 21 52 77",
     "Adresse": "Avenue du Groupe Manouchian, 13120 Gardanne",
     "Ville": "Gardanne"
-  },
-  {
-    "Name": "Ecole internationale Tunon ",
-    "Tel": "04 91 54 06 53",
-    "Adresse": "100 rue Sainte, 13007 Marseille",
-    "Ville": "Marseille"
   },
   {
     "Name": "Centre National de Formation par Alternance des Auxiliaires Spécialisés Vétérinaires (CNFA-ASV) ",
@@ -17310,12 +16170,6 @@
     "Ville": "Marseille"
   },
   {
-    "Name": "SUP'IPGV ",
-    "Tel": "04 90 99 47 00",
-    "Adresse": "23 chemin des moines, 13200 Arles",
-    "Ville": "Arles"
-  },
-  {
     "Name": "GRETA-CFA Lycée Professionnel La Floride ",
     "Tel": "04 91 96 35 30",
     "Adresse": "54 boulevard Gay Lussac, 13014 Marseille",
@@ -17334,12 +16188,6 @@
     "Ville": "La Ciotat"
   },
   {
-    "Name": "CFA de la Pharmacie ",
-    "Tel": "04 91 84 00 00",
-    "Adresse": "30, rue Bénédit, 13004 Marseille",
-    "Ville": "Marseille"
-  },
-  {
     "Name": "GRETA-CFA Lycée Professionnel Colbert ",
     "Tel": "04 91 96 35 30",
     "Adresse": "13 rue du Capitaine Dessemond, 13007 Marseille",
@@ -17349,12 +16197,6 @@
     "Name": "GRETA-CFA Lycée Polyvalent Régional Denis Diderot ",
     "Tel": "04 91 96 35 30",
     "Adresse": "23 boulevard Lavéran, 13013 Marseille",
-    "Ville": "Marseille"
-  },
-  {
-    "Name": "CFA CAMAS ",
-    "Tel": "04 95 08 77 39",
-    "Adresse": "141 avenue du Prado Bâtiment B, 6ème étage, 13008 Marseille",
     "Ville": "Marseille"
   },
   {
@@ -17374,12 +16216,6 @@
     "Tel": "809908908",
     "Adresse": "368 boulevard Henri Barnier, 13016 Marseille",
     "Ville": "Marseille"
-  },
-  {
-    "Name": "CFA des métiers de la Banque et de la Finance ",
-    "Tel": "04 91 42 08 82",
-    "Adresse": "65 avenue Jules Cantini Tour Méditerranée, 13435 Marseille Cedex 20",
-    "Ville": "Marseille Cedex 20"
   },
   {
     "Name": "GRETA-CFA Espace Petit Prince\nLycée Saint Exupéry ",
@@ -17586,12 +16422,6 @@
     "Ville": "Briançon"
   },
   {
-    "Name": "GRETA-CFA Lycee Polyvalent d'Altitude ",
-    "Tel": "04 92 52 55 70",
-    "Adresse": "2 rue Marius Chancel, 05105 Briançon",
-    "Ville": "Briançon"
-  },
-  {
     "Name": "GRETA-CFA Lycée Professionnel Pierre Mendès-France ",
     "Tel": "04 92 52 55 70",
     "Adresse": "Place des Aires, 05400 Veynes",
@@ -17626,12 +16456,6 @@
     "Tel": "04 92 52 55 70",
     "Adresse": "49 route des Fauvins, 05000 Gap",
     "Ville": "Gap"
-  },
-  {
-    "Name": "CFA des Compagnons du Devoir ",
-    "Tel": "04 92 23 09 62",
-    "Adresse": "403, rue du Général de Gaulle, 05120 L'Argentière-la-Bessée",
-    "Ville": "L'Argentière-la-Bessée"
   },
   {
     "Name": "GRETA-CFA Lycée Professionnel Paul Héraud ",
@@ -17686,18 +16510,6 @@
     "Tel": "04 94 00 55 64",
     "Adresse": "32 Chemin Saint Lazare, 83400 Hyères",
     "Ville": "Hyères"
-  },
-  {
-    "Name": "SUP'IPGV ",
-    "Tel": "04.94.35.08.64",
-    "Adresse": "401 Chemin des Plantades, 83130 La Garde",
-    "Ville": "La Garde"
-  },
-  {
-    "Name": "SUP'IPGV ",
-    "Tel": "04.94.35.08.64",
-    "Adresse": "401 Chemin des Plantades, 83130 La Garde",
-    "Ville": "La Garde"
   },
   {
     "Name": "FORMAPLUS ",
@@ -17898,12 +16710,6 @@
     "Ville": "Avignon"
   },
   {
-    "Name": "IFC Avignon ",
-    "Tel": "04 90 14 15 90",
-    "Adresse": "Parc activités de Courtine 250 rue du 12ème Régiment de Zouaves, 84000 Avignon",
-    "Ville": "Avignon"
-  },
-  {
     "Name": "Maison Familiale Rurale-CFA La Tour-d'Aigues ",
     "Tel": "04 90 07 40 72",
     "Adresse": "27 chemin de Verdache/Quartier La Ferrage, 84240 La Tour-d'Aigues",
@@ -18054,12 +16860,6 @@
     "Ville": "Carpentras"
   },
   {
-    "Name": "CFA ISARA ",
-    "Tel": "04 27 85 85 36",
-    "Adresse": "Campus Isara-Isema - 105 Rue Pierre Bayle, 84918 Avignon",
-    "Ville": "Avignon"
-  },
-  {
     "Name": "IFRIA Paca - Métiers de l'industrie alimentaire ",
     "Tel": "04 90 31 55 13",
     "Adresse": "Cité de l’Alimentation, 100 rue Pierre Bayle, 84140 Montfavet (Avignon)",
@@ -18132,12 +16932,6 @@
     "Ville": "Saint-André"
   },
   {
-    "Name": "CFA Agricole de Saint-Paul ",
-    "Tel": "02 62 46 15 02",
-    "Adresse": "1019, chemin le Patelin, 97440 Saint-André",
-    "Ville": "Saint-André"
-  },
-  {
     "Name": "CFA de la Chambre de Commerce et d'Industrie de Saint-Pierre ",
     "Tel": "02 62 96 96 96",
     "Adresse": "15, route de la Balance, 97410 Saint-Pierre",
@@ -18174,12 +16968,6 @@
     "Ville": "Sainte-Marie"
   },
   {
-    "Name": "CFA Agricole de Saint-Paul ",
-    "Tel": "02 62 45 22 69",
-    "Adresse": "Route de Mafate, 97863 Saint-Paul",
-    "Ville": "Saint-Paul"
-  },
-  {
     "Name": "CFA de la Chambre de métiers du Port ",
     "Tel": "02 62 42 10 31",
     "Adresse": "31, avenue Raymond Mondon, 97824 Le Port",
@@ -18190,12 +16978,6 @@
     "Tel": "02 62 46 62 00",
     "Adresse": "Chemin Comorapoullé, 97440 Saint-André",
     "Ville": "Saint-André"
-  },
-  {
-    "Name": "YesYouCan ",
-    "Tel": "0 805 65 98 98",
-    "Adresse": "Immeuble Rodrigues II, 7 Rue Henri Cornu, 97490 Saint-Denis",
-    "Ville": "Saint-Denis"
   },
   {
     "Name": "CFA de la Chambre de métiers de l'Ouest ",
@@ -18220,12 +17002,6 @@
     "Tel": "05 94 32 80 02",
     "Adresse": "Campus universitaire de Troubiran - Route de Baduel BP 792, 97337 Cayenne",
     "Ville": "Cayenne"
-  },
-  {
-    "Name": "UFA Lycée professionnel Elie Castor ",
-    "Tel": "05 94 22 36 94",
-    "Adresse": "Rue Edjide Duchesne, 97310 Kourou",
-    "Ville": "Kourou"
   },
   {
     "Name": "UFA Lycée professionnel Elie Castor ",
@@ -18264,22 +17040,10 @@
     "Ville": "Rivière-Salée"
   },
   {
-    "Name": "CFA du Bâtiment et des Travaux Publics ",
-    "Tel": "05 96 77 15 88",
-    "Adresse": "Quartier Vaudrancourt, 97224 Ducos",
-    "Ville": "Ducos"
-  },
-  {
     "Name": "CFA tertiaire de la CCI de Martinique ",
     "Tel": "05 96 61 61 32",
     "Adresse": "Rue Edmond Aubin, Case Navire, 97233 Schoelcher",
     "Ville": "Schoelcher"
-  },
-  {
-    "Name": "CFA Agricole de la Martinique ",
-    "Tel": "05 96 54 32 13",
-    "Adresse": "Quartier Chopotte, 97240 Le Francois",
-    "Ville": "Le Francois"
   },
   {
     "Name": "CFA Agricole de la Martinique ",
@@ -18304,12 +17068,6 @@
     "Tel": "05 90 95 27 86",
     "Adresse": "Convenance, 97122 Baie-Mahault",
     "Ville": "Baie-Mahault"
-  },
-  {
-    "Name": "Maison familiale rurale d'éducation et d'orientation Brefort ",
-    "Tel": "05 90 25 96 80",
-    "Adresse": "Cité Brefort, 97129 Lamentin",
-    "Ville": "Lamentin"
   },
   {
     "Name": "Maison familiale rurale d'éducation et d'orientation Brefort ",
@@ -18406,12 +17164,6 @@
     "Tel": "04 95 30 02 30",
     "Adresse": "Borgo Marana, 20290 Borgo",
     "Ville": "Borgo"
-  },
-  {
-    "Name": "CFA de Haute-Corse - J.J Nicolai ",
-    "Tel": "04 95 59 20 30",
-    "Adresse": "Route du Village, 20600 Furiani",
-    "Ville": "Furiani"
   },
   {
     "Name": "CFA de Haute-Corse - J.J Nicolai ",

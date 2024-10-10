@@ -115,16 +115,16 @@ const scraperObject = {
             await newPage.close(); // Ferme la page après traitement
         }
 
-        const uniqueCfaList = cfaList.filter((cfa => {
+        const uniqueCfaList = cfaList.filter((item => {
             const seenNames = new Set();
-            return cfaList.filter(item => {
-                if (seenNames.has(item.Name)) {
-                    return false; // Si le nom est déjà dans le Set, on le supprime
+            return item => {
+                if (seenNames.has(item.Name.trim())) {
+                    return false;
                 }
-                seenNames.add(item.Name);
-                return true; // Garde l'objet si le nom n'a pas encore été vu
-            });
-        }));
+                seenNames.add(item.Name.trim());
+                return true;
+            };
+        })());
 
         return uniqueCfaList;
 	}
