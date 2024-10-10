@@ -92,6 +92,34 @@ const scraperObject = {
                         Ville = match[4].trim(); // Partie après le code postal : Ville
                     }
 
+                    // Scrapper la description contenue dans la div .cfacomment
+                    const descriptionElement = container.querySelector('.cfacomment');
+                    let description = 'N/A';
+
+                    if (descriptionElement) {
+                        // Extraire le texte directement inséré dans la div
+                        const directText = Array.from(descriptionElement.childNodes)
+                            .filter(node => node.nodeType === Node.TEXT_NODE)
+                            .map(node => node.textContent.trim())
+                            .filter(text => text.length > 0) // Ignorer les textes vides
+                            .join('\n');
+
+                        // Extraire le contenu textuel des <h4>, <p>, et <ul> dans la description
+                            const h4Text = Array.from(descriptionElement.querySelectorAll('h4')).map(h4 => h4.innerText).join('\n');
+                            const pText = Array.from(descriptionElement.querySelectorAll('p')).map(p => p.innerText).join('\n');
+                            const ulText = Array.from(descriptionElement.querySelectorAll('ul')).map(ul => {
+                                return Array.from(ul.querySelectorAll('li')).map(li => li.innerText).join(', ');
+                            }).join('\n');
+
+                        // Combiner tout le contenu
+                            description = `${directText}\n${h4Text}\n${pText}\n${ulText}`.trim();
+
+                            // Sélectionner le site web via le data-href de la balise <a class="web btn btn-primary">
+                            
+                        }
+                        const websiteElement = container.querySelector('a.web.btn.btn-primary');
+                        const website = websiteElement ? websiteElement.getAttribute('data-href') : 'N/A';
+
 
                 
 
@@ -103,7 +131,9 @@ const scraperObject = {
                         Name: Name,
                         Tel: Tel,
                         Adresse: `${Adresse}, ${match ? match[3] : ''} ${Ville}`, // Combine l'adresse et le code postal
-                        Ville: Ville
+                        Ville: Ville,
+                        Description: description, // Ajout de la description extraite
+                        Website: website // Ajout du lien du site web
                         
                     };
                 });
